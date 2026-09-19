@@ -20,7 +20,7 @@ The audit deliberately distinguishes user-developed projects from predecessor na
 
 | Record | Historical line | Classification | Why it belongs in the journal |
 | --- | --- | --- | --- |
-| PRJ-021 | Pooka | distinct early project | January 2026 children's digital companion combining LLM interaction, simulation, memory, and virtual-pet mechanics. |
+| PRJ-021 | Pooka | distinct early project | Originally documented by April 2023 as a children's AI companion/tutor/pet concept; later 2024 prototyping explored local models, tiered memory, and emotional state. |
 | PRJ-022 | Personal Cognitive Digital Twin / JayTwin | distinct project lineage | March to June work on portable replication of reasoning, autobiographical knowledge, decision behavior, and expression across frontier and local models. |
 | PRJ-023 | OPS / SoulCore / Project Persona / OmniPersona / P3 | predecessor lineage | Formalized portable identity, stable persona snapshots, mutable continuity records, memory, relationships, model independence, and cartridge-style persistence. |
 | PRJ-024 | MINA / ESAR | distinct governance line | June work on motivational identity, event-sourced provenance, commitments, boundaries, contradiction handling, and LLM articulation without LLM state authority. |
@@ -60,7 +60,7 @@ Hexis, Shikigami Protocol, Project Alicization, OpenHer, Synthetic Heart, Concor
 
 ## Audit conclusion
 
-The first journal pass substantially underrepresented the first half of 2026. The largest gap was the portable-identity lineage that led from Pooka, Digital Twin, SoulCore, Project Persona, OmniPersona, P3, MINA, PersonaConsole, and ACOR toward Persona Engine, Wayfarer, DUCK, and the later organism research.
+The first journal pass substantially underrepresented the earlier lineage. A later pre-2026 audit moved Pooka back to at least April 2023 and recovered additional 2023-2025 predecessors. The 2026-specific gap was still the portable-identity lineage that led from Digital Twin, SoulCore, Project Persona, OmniPersona, P3, MINA, PersonaConsole, and ACOR toward Persona Engine, Wayfarer, DUCK, and the later organism research.
 
 The second important gap was the exploratory architecture line represented by Sidecar Self-Core, CIP, Fringe Mind Lab, and MADMAN. These projects are scientifically useful because they show that the later work did not emerge from one linear architecture. Multiple competing hypotheses about where continuity and individuality might live were being tested in parallel.
 
