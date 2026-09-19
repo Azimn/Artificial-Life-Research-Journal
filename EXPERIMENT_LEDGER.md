@@ -45,6 +45,19 @@ This ledger is intentionally evidence-oriented. It includes successful, negative
 | EXP-2026-031 | Creature Lab v0.2 ontogenetic plasticity | PRJ-019 | Does lived experience change future processing architecture rather than merely stored state? | Added bounded developmental plasticity to fixed versus plastic PEMA comparisons; detailed result backfill remains needed. |
 | EXP-2026-032 | Project Janus grounded-control design | PRJ-025 | Does deterministic world grounding improve belief revision and causal agency over an otherwise matched roleplay condition? | Experimental design recovered; execution outcome has not yet been established in this journal. |
 
+| EXP-2023-001 | Pooka companion concept | PRJ-021 | Can a child-facing AI combine tutor, friend, pet, customization, and future embodiment? | Concept and pitch recovered; no completed product evidence. |
+| EXP-2023-002 | Six Emotional Dimension model | PRJ-033 | Can six explicit affect dimensions capture subtle text-based emotional state? | Published conceptual model recovered; standalone validation or software results not established. |
+| EXP-2023-003 | Modular Cognitive Agents | PRJ-032 | Can specialized cognitive modules coordinate into a coherent artificial self? | Published architecture recovered; no 2023 prototype result established. |
+| EXP-2023-004 | SP-1K / 5Y-NX character experiments | PRJ-036 | What changes when an AI character is framed as autonomous digital life rather than an assistant? | Prompt and character research only; important as conceptual precursor, not artificial-life evidence. |
+| EXP-2024-001 | Core Memories / tiered memory design | PRJ-023 | Can high-significance core memories and separate session/profile memory improve continuity? | Implementation-oriented design recovered; no conclusive test result. |
+| EXP-2024-002 | Child-friendly local chatbot prototype | PRJ-021 | Can a small local model sustain a child companion with tiered memory and emotional state? | A functioning chat interface and TinyLlama generation failures were recovered; full product completion not established. |
+| EXP-2025-001 | 1990s Comic Creator simulation | PRJ-035 | Can simulated biography and memory shape period-consistent creative decisions? | Distinct project design recovered; execution results remain incomplete. |
+| EXP-2025-002 | PointlessAI Recursive Coherence | PRJ-034 | Can layered memory, reflection, internal monologue, emotional drift, and idle reprocessing produce persistent identity? | Prototype line recovered; detailed benchmarks were not found. |
+| EXP-2025-003 | SoulFile parser and serializer | PRJ-023 | Can portable persona state be represented, validated, consolidated, searched, updated, and exported outside any one model? | JavaScript prototype implemented episodic memory, emotional history, consolidation, relationships, personality drift, and exports. |
+| EXP-2025-004 | SNP Lite minimum viable NPC engine | PRJ-023 | Can a lightweight local runtime preserve persona, mood, values, and memory across interchangeable models? | Prototype successfully ran TinyLlama GGUF and wrote memory; UI, dynamic emotion, and validation remained limited. |
+| EXP-2025-005 | Cross-platform persona export and re-import | PRJ-023 | Can persona and memory state move between local runtimes and hosted systems without losing continuity? | Portability experiment recovered; long-horizon fidelity results remain incomplete. |
+| EXP-2025-006 | Personality-in-weights / Zark LoRA plan | PRJ-023 | Can identity be stored partly in learned model parameters rather than only prompts and retrieval memory? | Experiment plan recovered; completed longitudinal result not established. |
+
 ## Numbering note
 
 The initial IDs are reconstruction IDs, not claims about the historical order in which every experiment occurred. Future experiments should receive IDs when first registered. Historical items can be renumbered only before they acquire external citations.
