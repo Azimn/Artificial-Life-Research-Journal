@@ -47,7 +47,7 @@ The current question set covers [persistent artificial identity](research-questi
 
 The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), and methodological commitments live in [Research Methods](METHODS.md).
 
-The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the extensive prior-chat audit performed after the journal was founded. It distinguishes recovered user projects from absorbed versions, experimental branches, conceptual proposals, and outside prior art.
+The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
 
 ## Current focal projects
 
@@ -62,3 +62,9 @@ The chat audit recovered project-level records for [Pooka](projects/PRJ-021-Pook
 The first reconstructed journal entry is [2026-09-18 Portfolio Reconstruction](journal/2026/2026-09-18-portfolio-reconstruction.md).
 
 This chronology is deliberately distinct from the project pages. Project pages answer "what is this line of research?" Journal entries answer "what did we think, do, discover, or change on this date?"
+
+## Pre-2026 ancestry
+
+The deeper recovered lineage includes [Modular Cognitive Agents](projects/PRJ-032-Modular-Cognitive-Agents.md), the [Six Emotional Dimension Model](projects/PRJ-033-Six-Emotional-Dimension-6DE.md), [PointlessAI / Recursive Coherence](projects/PRJ-034-PointlessAI-Recursive-Coherence.md), [Simulating a 1990s Comic Creator](projects/PRJ-035-1990s-Comic-Creator.md), and the [Digital Life Character Lab](projects/PRJ-036-Digital-Life-Character-Lab.md).
+
+These records make the journal's historical starting point at least 2023 rather than 2026.
