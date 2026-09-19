@@ -68,3 +68,11 @@ This chronology is deliberately distinct from the project pages. Project pages a
 The deeper recovered lineage includes [Modular Cognitive Agents](projects/PRJ-032-Modular-Cognitive-Agents.md), the [Six Emotional Dimension Model](projects/PRJ-033-Six-Emotional-Dimension-6DE.md), [PointlessAI / Recursive Coherence](projects/PRJ-034-PointlessAI-Recursive-Coherence.md), [Simulating a 1990s Comic Creator](projects/PRJ-035-1990s-Comic-Creator.md), and the [Digital Life Character Lab](projects/PRJ-036-Digital-Life-Character-Lab.md).
 
 These records make the journal's historical starting point at least 2023 rather than 2026.
+
+## Other projects
+
+The repository also contains a deliberately separate [Other Projects Registry](OTHER_PROJECTS.md).
+
+This archive covers [game development and retro projects](other-projects/game-development-retro.md), [creative writing and publishing](other-projects/creative-writing-publishing.md), [teaching and curriculum](other-projects/teaching-curriculum.md), [3D, XR, and graphics](other-projects/3d-xr-graphics.md), [AI tooling and local agents](other-projects/ai-tooling-local-agents.md), [model training and fine-tuning](other-projects/model-training-finetuning.md), and [preservation and modding](other-projects/preservation-modding.md).
+
+These records use the `OPJ-` namespace and are not part of the core experimental evidence unless deliberately promoted later.
