@@ -45,7 +45,7 @@ The current question set covers [persistent artificial identity](research-questi
 
 ## Registries and audit
 
-The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), and methodological commitments live in [Research Methods](METHODS.md).
+The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), methodological commitments live in [Research Methods](METHODS.md), and formal scholarly provenance is mapped in [Published Work and Research Lineage](PUBLICATIONS.md).
 
 The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
 
