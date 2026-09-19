@@ -26,7 +26,9 @@ Read [INDEX.md](INDEX.md) for the knowledge map.
 
 The main registries are [PROJECT_REGISTRY.md](PROJECT_REGISTRY.md), [EXPERIMENT_LEDGER.md](EXPERIMENT_LEDGER.md), and [RESEARCH_PROGRAMS.md](RESEARCH_PROGRAMS.md).
 
-Research questions live in [research-questions/](research-questions/). Project records live in [projects/](projects/). Chronological lab notes live in [journal/](journal/). Reusable record formats live in [templates/](templates/).
+Research questions live in [research-questions/](research-questions/). Core research project records live in [projects/](projects/). Chronological lab notes live in [journal/](journal/). Reusable record formats live in [templates/](templates/).
+
+Work that is worth preserving but is outside the core artificial-life program lives in the separate [Other Projects Registry](OTHER_PROJECTS.md) and [other-projects/](other-projects/) archive. Those records use `OPJ-` IDs and are not treated as experimental evidence unless explicitly promoted into the core research program.
 
 ## Journal rule
 
@@ -55,7 +57,9 @@ See [docs/SEARCH_AND_PUBLISHING.md](docs/SEARCH_AND_PUBLISHING.md).
 
 ## Scope
 
-The journal begins with a reconstruction of work from January through September 2026. Earlier work can be backfilled when useful. The goal is not to make the historical reconstruction look cleaner than it was. Dates, certainty, and provenance should be recorded honestly.
+The core research journal currently reconstructs relevant work back to at least 2023 and continues through the active 2026 program. The goal is not to make the historical reconstruction look cleaner than it was. Dates, certainty, provenance, proposed designs, completed experiments, and later corrections should be recorded honestly.
+
+The repository also contains a deliberately separate archive for game-development, creative, teaching, 3D/XR, tooling, model-training, preservation, and other projects that do not currently belong under the artificial-life research framing.
 
 ## Naming
 
@@ -67,3 +71,4 @@ Experiments use `EXP-YYYY-###`.
 Journal entries use `JRN-YYYY-MM-DD-##`.
 Concept notes use `CON-###`.
 Literature notes use `LIT-###`.
+Other-project records use `OPJ-<CATEGORY>-###`.
