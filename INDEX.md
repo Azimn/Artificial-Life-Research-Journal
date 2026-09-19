@@ -41,36 +41,21 @@ development             substrate
 
 ## Core research questions
 
-- [RQ-001 Persistent Artificial Identity](research-questions/RQ-001-persistent-artificial-identity.md)
-- [RQ-002 Developmental Individuality](research-questions/RQ-002-developmental-individuality.md)
-- [RQ-003 Persistent Substrates](research-questions/RQ-003-persistent-substrates.md)
-- [RQ-004 Subjective Access](research-questions/RQ-004-subjective-access.md)
-- [RQ-005 Emergent Ecology](research-questions/RQ-005-emergent-ecology.md)
-- [RQ-006 Artificiality and Believability](research-questions/RQ-006-artificiality-and-believability.md)
-- [RQ-007 Bounded Self-Modification](research-questions/RQ-007-bounded-self-modification.md)
+The current question set covers [persistent artificial identity](research-questions/RQ-001-persistent-artificial-identity.md), [developmental individuality](research-questions/RQ-002-developmental-individuality.md), [persistent substrates](research-questions/RQ-003-persistent-substrates.md), [subjective access](research-questions/RQ-004-subjective-access.md), [emergent ecology](research-questions/RQ-005-emergent-ecology.md), [artificiality and believability](research-questions/RQ-006-artificiality-and-believability.md), and [bounded self-modification](research-questions/RQ-007-bounded-self-modification.md).
 
-## Registries
+## Registries and audit
 
-- [Project Registry](PROJECT_REGISTRY.md)
-- [Experiment Ledger](EXPERIMENT_LEDGER.md)
-- [Glossary](GLOSSARY.md)
-- [Research Methods](METHODS.md)
+The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), and methodological commitments live in [Research Methods](METHODS.md).
+
+The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the extensive prior-chat audit performed after the journal was founded. It distinguishes recovered user projects from absorbed versions, experimental branches, conceptual proposals, and outside prior art.
 
 ## Current focal projects
 
-- [DUCK](projects/PRJ-001-DUCK.md)
-- [Pretorius Neural Network](projects/PRJ-002-Pretorius-Neural-Network.md)
-- [JELLY Jar and Native Jar](projects/PRJ-003-JELLY-Native-Jar.md)
-- [PEMA](projects/PRJ-004-PEMA.md)
-- [Bicentennial Man](projects/PRJ-005-Bicentennial-Man.md)
-- [Kurzweil Brain Experiments](projects/PRJ-006-Kurzweil-Brain-Experiments.md)
-- [Persona Connectome](projects/PRJ-007-Persona-Connectome.md)
-- [Subjective Character Loop](projects/PRJ-008-Subjective-Character-Loop.md)
-- [Persona Engine](projects/PRJ-009-Persona-Engine.md)
-- [Gelatinblob](projects/PRJ-010-Gelatinblob.md)
-- [Latent Organism](projects/PRJ-011-Latent-Organism.md)
-- [Integration Harness](projects/PRJ-012-Integration-Harness.md)
-- [Champion versus Challenger](projects/PRJ-013-Champion-versus-Challenger.md)
+The current focal set includes [DUCK](projects/PRJ-001-DUCK.md), [Pretorius Neural Network](projects/PRJ-002-Pretorius-Neural-Network.md), [JELLY Jar and Native Jar](projects/PRJ-003-JELLY-Native-Jar.md), [PEMA](projects/PRJ-004-PEMA.md), [Bicentennial Man](projects/PRJ-005-Bicentennial-Man.md), [Kurzweil Brain Experiments](projects/PRJ-006-Kurzweil-Brain-Experiments.md), [Persona Connectome](projects/PRJ-007-Persona-Connectome.md), [Subjective Character Loop](projects/PRJ-008-Subjective-Character-Loop.md), [Persona Engine](projects/PRJ-009-Persona-Engine.md), [Gelatinblob](projects/PRJ-010-Gelatinblob.md), [Latent Organism](projects/PRJ-011-Latent-Organism.md), [Integration Harness](projects/PRJ-012-Integration-Harness.md), and [Champion versus Challenger](projects/PRJ-013-Champion-versus-Challenger.md).
+
+## Recovered historical projects
+
+The chat audit recovered project-level records for [Pooka](projects/PRJ-021-Pooka.md), [Personal Cognitive Digital Twin / JayTwin](projects/PRJ-022-Digital-Twin-JayTwin.md), the [Portable Identity Standards Line](projects/PRJ-023-Portable-Identity-Standards-Line.md), [MINA / ESAR](projects/PRJ-024-MINA-ESAR.md), [Project Janus](projects/PRJ-025-Project-Janus.md), [ACOR](projects/PRJ-026-ACOR.md), [Kiki Runtime / OpenClaw Organism](projects/PRJ-027-Kiki-OpenClaw-Organism.md), [Sidecar Self-Core](projects/PRJ-028-Sidecar-Self-Core.md), [CIP / Identity Has a Yield Surface](projects/PRJ-029-CIP-Identity-Yield-Surface.md), [Fringe Mind Lab](projects/PRJ-030-Fringe-Mind-Lab.md), and [MADMAN / Metaphysical Man](projects/PRJ-031-MADMAN-Metaphysical-Man.md).
 
 ## Chronological notebook
 
