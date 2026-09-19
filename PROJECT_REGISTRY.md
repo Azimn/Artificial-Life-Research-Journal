@@ -44,6 +44,12 @@ This registry tracks research projects, not every software repository. Forks, in
 | PRJ-030 | Fringe Mind Lab | Can a resource-limited ecology of private cognitive processes produce history-dependent control without a central self or language model? | completed exploratory project |
 | PRJ-031 | MADMAN / Metaphysical Man | Can local resource dynamics, persistence, scars, reconstruction, and competition produce weakly emergent artificial organization without prespecified cognitive modules? | exploratory project |
 
+| PRJ-032 | Modular Cognitive Agents / Synthesizing Sentience | Can specialized cognitive agents or modules produce a coherent continuing artificial self? | historical research |
+| PRJ-033 | Six Emotional Dimension Model | Can a compact multidimensional affect state improve emotionally coherent artificial behavior beyond prompt-local sentiment? | historical research |
+| PRJ-034 | PointlessAI / Recursive Coherence | Can layered memory, reflection, emotional drift, and recursive self-reference produce persistent identity? | historical prototype |
+| PRJ-035 | Simulating a 1990s Comic Creator | Can biography, relationships, diary-like memory, and stable values shape creative decisions rather than merely surface style? | historical experiment |
+| PRJ-036 | Digital Life Character Lab | Can prompt-level artificial-life characters explore autonomy, self-modification, nonhuman identity, and embodiment as precursor hypotheses? | conceptual precursor |
+
 ## Registry policy
 
 A new code repository does not automatically create a new project record. Create a new project only when there is a distinct research question, experimental lineage, or scientific boundary that would be obscured by treating it as a branch of an existing project.
