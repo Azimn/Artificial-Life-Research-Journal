@@ -45,6 +45,8 @@ development             substrate
 
 The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) makes the program's competing external-loop, recurrent-learning, hybrid and cue-representation hypotheses explicit. Its [evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) distinguishes measured outcomes from interpretations, and its [shared comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md) specifies the proposed four-arm evaluation. See the [October 8 convergence journal entry](journal/2026/2026-10-08-character-continuity-convergence.md) for the program decision.
 
+[Pilot13 original FlyWire memory-capacity and interference study](journal/2026/2026-10-08-flywire-pilot13-capacity.md) links the seven-stage synthetic results and original-v783 biological completion gate to the cumulative character-continuity investigation. It preserves the distinction between external-oracle numeric associations and autonomous memory.
+
 ## Core research questions
 
 The current question set covers [persistent artificial identity](research-questions/RQ-001-persistent-artificial-identity.md), [developmental individuality](research-questions/RQ-002-developmental-individuality.md), [persistent substrates](research-questions/RQ-003-persistent-substrates.md), [subjective access](research-questions/RQ-004-subjective-access.md), [emergent ecology](research-questions/RQ-005-emergent-ecology.md), [artificiality and believability](research-questions/RQ-006-artificiality-and-believability.md), and [bounded self-modification](research-questions/RQ-007-bounded-self-modification.md).
