@@ -18,6 +18,10 @@ The code for an experiment may live in another repository. The scientific record
 
 The [Character Continuity Research Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) unifies the experimental interpretation of neural substrate learning, BioCircuit, FlyWire retrieval/imprinting, Attractomancy conditioning, and the definitive The Doctor Lives character. Start with the [cross-project evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) and [four-arm comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md). Source implementations and raw case-level evidence remain authoritative in their own repositories. The comparison protocol is a preregistration draft, not an executed study.
 
+## Portfolio and provenance audit
+
+The [October 8 completeness audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md) compares the historical journal against the current accessible Azimn repository portfolio. Its [public inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv) classifies 53 public repositories, the [data-assets register](audits/RESEARCH_ASSETS_2026-10-08.md) identifies canonical source owners, and the [follow-up queue](audits/PORTFOLIO_FOLLOWUP_QUEUE_2026-10-08.md) records remaining verification work. Seven missing research lines and 27 existing or proposed experiment families were added to the central indexes. Three private repositories are excluded from the public roster. Repository visibility and engineering tests do not by themselves establish authorship or scientific validation.
+
 ## Central question
 
 **What persistent causal organization is necessary for an artificial individual to acquire a history, be changed by that history, and remain recognizably the same individual afterward?**
