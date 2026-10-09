@@ -1,0 +1,40 @@
+---
+id: JRN-2026-10-08-04
+title: "FlyWire Pilot14: Usage-Dependent Synaptic Stabilization versus New-Memory Learning"
+type: journal-entry
+status: exploratory, original biological computation pending
+updated: 2026-10-08
+projects:
+  - PRJ-038
+research_questions:
+  - RQ-001
+  - RQ-003
+---
+
+# 2026-10-08: Pilot14 — does protecting old synaptic traces prevent interference?
+
+This research continues a single cumulative [Pretorius-Connectome](https://github.com/Azimn/Pretorius-Connectome) program, not a new character prototype. The canonical [Pilot13 longitudinal source study](2026-10-08-flywire-pilot13-capacity.md) on the actual whole FlyWire v783 topology showed the first 16 fictitious autobiographical event associations declined from **15/16** correct after training 16 source records to **4/16** after training 317. The source ID scoring oracle held 317 candidate targets constant at every stage, and a degree-preserved rewired original graph declined 15/16→3/16. Source evidence includes full per-case numerical traces and prior Pilot10 checkpoint parity. This is not natural language autobiographical recall or an actual fly remembering fictional Pretorius.
+
+## Predeclared next causal test
+
+[Own-repository PR #28](https://github.com/Azimn/Pretorius-Connectome/pull/28), [predeclared complete protocol](https://github.com/Azimn/Pretorius-Connectome/blob/experiment/flywire-pilot14-synaptic-stability/docs/FLYWIRE_DIRECT_IMPRINT_PILOT14.md), seven-arm [runner](https://github.com/Azimn/Pretorius-Connectome/blob/experiment/flywire-pilot14-synaptic-stability/scripts/run_flywire_pilot14.py), and [source-verified CI](https://github.com/Azimn/Pretorius-Connectome/actions/workflows/flywire-pilot14.yml).
+
+Frozen canonical reconstructed first-person L0/L1 and 450 original Pretorius v12 events/27 episodes; original episode-disjoint seed31 partition of 317 trained memory records, 62 validation-absent episodes, 71 test-absent episodes, same 159 familiar positives and 31 eligible truly unseen original fourth source cue conditions. Frozen *signed BC01 lexical* 256D cue and source-narrative content vectors, same first/middle/last training surfaces and fixed seed31 source/pre neuron to 256D output readout. Fixed source-trained load increments 0/16/32/64/128/256/317 with three literal cue presentations per event. Identical external 317-source-event ranking codebook at every stage; **no source event IDs or source narratives are stored or searched in the neural inference model**.
+
+The intervention is a **local numerical metaplasticity toy model**. For any writable existing biological-directed original synapse, the first coactivation uses the original update rule; subsequent coactivations scale their own future signed update by `1/(1+β·prior_synaptic_exposures)`, independently per physical original directed-pair slot. Its extra per-synapse state counts exposure only, not source event ID, date, narrative or target label. Two **predeclared β values** test protection strength: β=1 and β=4. The β=0 reference must be exactly the original Pilot10 additive learning rule and match source-linked original output identity. This is not a biological fly plasticity mechanism, and changing update gain is a confound for any absolute claim that stabilized memory "works better."
+
+Seven arms separate source-correct and corrupted association from graph-specific or nonneural representation: original graph β0; binary degree-switched original-derived FlyWire graph β0; original β1; original β4; degree-switched β1; original β1 with wrong source-content target association (fixed Pilot13 non-self rotation); and an **entirely nonneural, source-independent fixed sparse signed 256×256 lexical input-to-content linear matrix containing exactly the same number of learnable scalar parameters as the original biological graph has writable source→readout directed edges** (real 50,920). That last comparison is only a parameter-slot COUNT match, not a contact-weight, per-exposure gradient magnitude, wiring structure or computational cost match.
+
+To judge genuine retention, score the **identical original first 16 source events** from load16 to load317, their correct event IDs and own source content cosine margin against all other 316 source targets; also track the **newest trained 16 events**, entire original 159 source-positive test records, 31 eligible novel literal fourth-source-cue outcomes and never-imprinted 71 absent episode questions. A protection model retaining 16 early events but failing newly taught items is not a successful autobiographical learning intervention. Old acceptance threshold stays 0.0082783 rather than tuning test labels, with diagnostic oracle known-absent ranking AUC. All case-level event IDs remain external to model inference.
+
+Source anatomical safeguards require the original publisher FlyWire v783 CSR 139,255 neuron roots, 15,091,983 aggregate directed neuron-pairs, 54,492,922 integer contacts and all four pinned source SHA, read-only. Rewired graph is constructed as an isolated null copy with exactly matched eligible source outdegrees and target indegrees, not per-target incoming contact strength. Exact original Pilot10 learned-state checkpoint hash remains the evidence anchor. Historical source-main numerical runs have shown one case of ≤2.38e−7 per-weight float32 divergence and one near-zero nonzero extra slot despite identical other runs. Pilot14 therefore **predeclares ≤5e−7 weight difference tolerance**, records whether the complete float32 array is *actually exactly equal*, and still fails on any changed per-event 159 familiar / 71 absent source prediction, original biological hash or source split. Do not report bounded floating tolerance as byte identity.
+
+## First engineering result (synthetic, NOT original biology)
+
+[Successful seven-arm artificial-connectivity CI run 37882541412](https://github.com/Azimn/Pretorius-Connectome/actions/runs/37882541412) passed five new unit tests and five older capacity/source tests and the complete seven-stage synthetic study. On an artificially generated, aggregated **8192-neuron synthetic graph**, among the same first 16 source events correctly identified by an external fixed 317-event source-target oracle, the original β0 numerical rule declined **5/16 at 16-event training to 1/16 at 317**, original β1 declined **5/16→2/16**, while original stronger β4 declined **4/16→4/16**. The degree-switched synthetic β1 arm scored **9/16→4/16**. These are **not original biological FlyWire results**, not yet a useful autobiographical recall system and not independently validated semantic transfer. Their main use is evidence that protocol/code can expose an early-vs-late protection effect and that the full source-verified biological experiment is worth checking.
+
+## Completion, falsification and scientific limits
+
+The real original whole FlyWire-v783 source-verification and seven-arm results are a **separate CI job** and must run successfully before a real-model efficacy interpretation or original trained-state archive. Permanently commit exact full source-case JSON and every actual seven-model learned checkpoint, including protected per-edge usage counters and fixed nonneural matrix/mask. Record all source SHA and signed numerics plus evidence in the owning Connectome repo and an addendum here, even if protection fails, new-event learning is blocked or a nonneural control dominates.
+
+Potential positive result is **retention with continued acquisition**, not merely old source memory top1 gains in a repeated-source benchmark. Even then, the decoder remains an **EXTERNAL oracle-only codebook** and none of this proves actual fly memory physiology, independent literary character agency, cross-model persistence, human semantic recollection or a definitive Pretorius. A later prospective experiment with independently written nontrain cues and an internal learned readout would still be required.
