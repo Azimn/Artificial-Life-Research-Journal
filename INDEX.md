@@ -51,7 +51,7 @@ The current question set covers [persistent artificial identity](research-questi
 
 The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), methodological commitments live in [Research Methods](METHODS.md), and formal scholarly provenance is mapped in [Published Work and Research Lineage](PUBLICATIONS.md).
 
-The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
+The [October 8 Portfolio Completeness Audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md), [public 53-repository inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv), [research assets and owners](audits/RESEARCH_ASSETS_2026-10-08.md), and [remaining verification queue](audits/PORTFOLIO_FOLLOWUP_QUEUE_2026-10-08.md) connect the newer research lines without erasing earlier provenance.\n\nThe [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
 
 ## Current focal projects
 
@@ -60,6 +60,10 @@ The current focal set includes [DUCK](projects/PRJ-001-DUCK.md), [Pretorius Neur
 ## Recovered historical projects
 
 The chat audit recovered project-level records for [Pooka](projects/PRJ-021-Pooka.md), [Personal Cognitive Digital Twin / JayTwin](projects/PRJ-022-Digital-Twin-JayTwin.md), the [Portable Identity Standards Line](projects/PRJ-023-Portable-Identity-Standards-Line.md), [MINA / ESAR](projects/PRJ-024-MINA-ESAR.md), [Project Janus](projects/PRJ-025-Project-Janus.md), [ACOR](projects/PRJ-026-ACOR.md), [Kiki Runtime / OpenClaw Organism](projects/PRJ-027-Kiki-OpenClaw-Organism.md), [Sidecar Self-Core](projects/PRJ-028-Sidecar-Self-Core.md), [CIP / Identity Has a Yield Surface](projects/PRJ-029-CIP-Identity-Yield-Surface.md), [Fringe Mind Lab](projects/PRJ-030-Fringe-Mind-Lab.md), and [MADMAN / Metaphysical Man](projects/PRJ-031-MADMAN-Metaphysical-Man.md).
+
+## Newly indexed October research lines
+
+The October backfill adds [Frankenstein and Bride qualification](projects/PRJ-037-Frankenstein-Bride-Qualification.md), [FlyWire Pretorius Connectome](projects/PRJ-038-Pretorius-FlyWire-Connectome.md), [Attractomancy](projects/PRJ-039-Attractomancy-Persona-Conditioning.md), [The Doctor Lives](projects/PRJ-040-The-Doctor-Lives-Definitive-Pretorius.md), [Calibos Mind](projects/PRJ-041-Calibos-Persistent-Subject.md), [Agent Pretorius](projects/PRJ-042-Agent-Pretorius-Reference-Reconstruction.md), and [activation-space affect steering](projects/PRJ-043-Activation-Space-Affect-Steering.md). BioCircuit stays within [Pretorius Neural Network](projects/PRJ-002-Pretorius-Neural-Network.md), and Kiki Mind extends [Kiki Runtime](projects/PRJ-027-Kiki-OpenClaw-Organism.md). The [experiment ledger](EXPERIMENT_LEDGER.md) indexes EXP-2026-034 through EXP-2026-060 with their measured/proposed status and original source reports.
 
 ## Chronological notebook
 
