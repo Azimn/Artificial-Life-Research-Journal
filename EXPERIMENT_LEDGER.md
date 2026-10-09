@@ -3,7 +3,7 @@ id: EXPERIMENT-LEDGER
 title: Experiment Ledger
 type: registry
 status: active
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Experiment Ledger
@@ -79,6 +79,9 @@ This ledger is intentionally evidence-oriented. It includes successful, negative
 | EXP-2026-063 | [Vector Fly masked source-grounded review Stage 03](https://github.com/Azimn/The-Doctor-Lives/blob/main/docs/VECTOR_FLY_BLINDED_REVIEW_STAGE03.md) | PRJ-040 | Can genuine renderer A/B replies be human-rated without leaking treatment identity, changing source answers or silently reporting unreviewed scores? | Merged, CI-tested balanced condition masking, coordinator-only key and complete-source-adjudication scoring gate; no human scores yet. Existing exposed cases are not an independent blinded benchmark. |
 
 | EXP-2026-064 | [Surprise scheduling vs fixed, random and shuffled controls](programs/EXP-2026-064_SURPRISE_SCHEDULING_AND_SCARCITY_V0.md) | PRJ-041 / PRJ-004 | Does prediction-error scheduling beat random nonuniform timing at equal compute, and does scarcity reallocate urgent processing rather than merely slow everything? | PROPOSED ONLY: preregistration candidate and negative controls; no SoulScript new-loop code, Calibos mutation or experimental outcomes established. |
+
+| EXP-2026-065 | [FlyWire Pilot13 staged memory-capacity/interference](https://github.com/Azimn/Pretorius-Connectome/blob/main/results/imprinting/PILOT13_REAL_V783_PROVISIONAL.md) | PRJ-038 | Do first-16 source associations persist as original-v783 and degree-rewired synaptic models receive 317 total events under a fixed 317-target external oracle? | ORIGINAL real-v783 exploratory computation: original first-16 correct 15/16 at load16 to 4/16 at load317; degree-rewired 15/16 to 3/16. Four repeated successful source runs, but a later main-branch float32 parity failure blocked its permanent archive; do not claim exact main-branch reproducibility or semantic recall. See [chronology](journal/2026/2026-10-08-flywire-pilot13-capacity.md). |
+| EXP-2026-066 | [FlyWire Pilot14 seven-arm local synaptic usage protection](https://github.com/Azimn/Pretorius-Connectome/blob/6d2768211f5c2184c8bbdb833c06e169b5137197/results/imprinting/PILOT14_REAL_SYNAPTIC_STABILITY_RESULTS.md) | PRJ-038 | Can local exposure-count-dependent write attenuation preserve earliest associations while acquiring newest events, beyond original-vs-rewired, wrong-content and parameter-count-matched nonneural controls? | ORIGINAL real-v783 exploratory result now permanently archived: β0 old/new 4/16 and 2/16; original β4 10/16 and 0/16; rewired β1 11/16 old; nonneural linear 6/16 newest and 46/159 familiar. All seven arms 0/31 unseen cues, absent false accepts 52–60/71. No topology-specific advantage, independent validation or autonomous recollection. [Run](https://github.com/Azimn/Pretorius-Connectome/actions/runs/37883362633), [case archive](https://github.com/Azimn/Pretorius-Connectome/blob/6d2768211f5c2184c8bbdb833c06e169b5137197/results/imprinting/runs/flywire-pilot14-real-v783-run37883362633.json), [journal](journal/2026/2026-10-08-flywire-pilot14-synaptic-stability.md). |
 
 | EXP-2023-001 | Pooka companion concept | PRJ-021 | Can a child-facing AI combine tutor, friend, pet, customization, and future embodiment? | Concept and pitch recovered; no completed product evidence. |
 | EXP-2023-002 | Six Emotional Dimension model | PRJ-033 | Can six explicit affect dimensions capture subtle text-based emotional state? | Published conceptual model recovered; standalone validation or software results not established. |
