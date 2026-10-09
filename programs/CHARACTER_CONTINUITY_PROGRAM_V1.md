@@ -66,6 +66,10 @@ Run [Continuity Comparison Protocol v1](CHARACTER_CONTINUITY_COMPARISON_PROTOCOL
 
 Use the [evidence register](CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) to choose the next intervention and to prevent repeating already falsified explanations. The [2026-10-08 synthesis](../journal/2026/2026-10-08-character-continuity-convergence.md) documents why this program was assembled.
 
+## Tracked work
+
+[Gate A: independent benchmark](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/1) and [Gate B: deterministic harness](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/2) may proceed in parallel. [Gate C: registered causal comparison](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/3) must wait for accepted benchmark review and executable leakage-controlled adapters. This dependency is explicit to prevent exploratory data from being mislabeled confirmatory.
+
 ## Success definition
 
 A successful research milestone is an interpretable result that changes an architectural decision, including a null result. A successful production milestone is a working, recoverable, source-grounded Pretorius whose history changes future behavior and whose causal contribution can be inspected. These milestones are related, but not identical.
