@@ -51,7 +51,9 @@ The current question set covers [persistent artificial identity](research-questi
 
 The main registries are the [Project Registry](PROJECT_REGISTRY.md) and [Experiment Ledger](EXPERIMENT_LEDGER.md). Definitions live in the [Glossary](GLOSSARY.md), methodological commitments live in [Research Methods](METHODS.md), and formal scholarly provenance is mapped in [Published Work and Research Lineage](PUBLICATIONS.md).
 
-The [October 8 Portfolio Completeness Audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md), [public 53-repository inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv), [research assets and owners](audits/RESEARCH_ASSETS_2026-10-08.md), and [remaining verification queue](audits/PORTFOLIO_FOLLOWUP_QUEUE_2026-10-08.md) connect the newer research lines without erasing earlier provenance.\n\nThe [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
+The [October 8 Portfolio Completeness Audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md), [public 53-repository inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv), [research assets and owners](audits/RESEARCH_ASSETS_2026-10-08.md), and [remaining verification queue](audits/PORTFOLIO_FOLLOWUP_QUEUE_2026-10-08.md) connect the newer research lines without erasing earlier provenance.
+
+The [Historical Backfill Audit 2026](HISTORICAL_BACKFILL_AUDIT_2026.md) records the first extensive prior-chat audit performed after the journal was founded. The [Pre-2026 Research History Audit](PRE_2026_HISTORY_AUDIT.md) extends the reconstruction back to 2023 and distinguishes published research, runnable prototypes, conceptual designs, prompt experiments, and outside prior art.
 
 ## Current focal projects
 
