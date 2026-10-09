@@ -3,7 +3,7 @@ id: PROJECT-REGISTRY
 title: Project Registry
 type: registry
 status: active
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Project Registry
@@ -49,6 +49,16 @@ This registry tracks research projects, not every software repository. Forks, in
 | PRJ-034 | PointlessAI / Recursive Coherence | Can layered memory, reflection, emotional drift, and recursive self-reference produce persistent identity? | historical prototype |
 | PRJ-035 | Simulating a 1990s Comic Creator | Can biography, relationships, diary-like memory, and stable values shape creative decisions rather than merely surface style? | historical experiment |
 | PRJ-036 | Digital Life Character Lab | Can prompt-level artificial-life characters explore autonomy, self-modification, nonhuman identity, and embodiment as precursor hypotheses? | conceptual precursor |
+
+| PRJ-037 | Frankenstein and Bride qualification | Can a frozen, replayable character runtime select only behaviorally justified mechanisms from experimental donors? | active research and production lineage |
+| PRJ-038 | Pretorius Connectome / FlyWire / Vector Fly | Can recurrent or biologically inspired topology support grounded autobiographical retrieval or learning beyond matched controls? | active experimental |
+| PRJ-039 | Attractomancy | Does symbolic/ritualized persona-conditioning structure improve recoverable behavior over information-matched prompts? | collection and proposed testing |
+| PRJ-040 | The Doctor Lives | Can the definitive Pretorius integrate proven causal mechanisms while preserving provenance, migrations, and subjective/live-state boundaries? | active production and causal audit |
+| PRJ-041 | Calibos Mind | Can an endogenous long-running subject accumulate privacy-preserving continuity through bounded memory, salience, consolidation, and concern loops? | operational exploratory |
+| PRJ-042 | Agent Pretorius | Can a rich Hermes reference reconstruction maintain provenance-grounded autobiographical and research continuity across model replacement? | active reference implementation |
+| PRJ-043 | Activation-Space Affect Steering | Can symbolic affect plus activation read/write feedback causally shape expressions across a frozen model without prompt-only attribution? | model-dependent research prototype |
+
+The October 8 backfill adds seven distinct research records, while BioCircuit remains a subline of PRJ-002 and Kiki Mind remains an implementation of PRJ-027. See the [October portfolio audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md) and [public repository inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv) for canonical/noncanonical boundaries.
 
 ## Registry policy
 
