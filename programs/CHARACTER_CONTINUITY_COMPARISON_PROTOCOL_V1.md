@@ -8,7 +8,7 @@ updated: 2026-10-08
 
 # Character Continuity Comparison Protocol v1
 
-**Status:** design locked as a program proposal, NOT preregistered confirmatory data. No run, green CI, participant blinding, or approved reviewer labels is claimed. Exact source splits and metric thresholds must be sealed before confirmatory execution.
+**Status:** registered experimental design proposal, NOT a frozen confirmatory preregistration and NOT experimental data. No run, green CI, participant blinding, or approved reviewer labels is claimed. Exact source splits and metric thresholds must be sealed before confirmatory execution.
 
 ## Hypothesis test
 
@@ -68,6 +68,10 @@ Statistical inference, minimum effect size and replication counts must be fixed 
 Shared benchmark definitions, blinded-review manifests, frozen protocol, comparison summary, and independent findings belong in this journal with version-pinned references. Original event source and L2 encoder stay in Pretorius Connectome. BioCircuit and FlyWire keep their own neural runners. The Doctor Lives is the target for optional production evaluation, not an automatic test winner and not a replacement for independent control code.
 
 First engineering deliverable: a deterministic, source-ID-driven evaluation contract with adapters for a record-only baseline, a frozen recurrent baseline, learned recurrence and a hybrid. The contract must be able to replay paired histories without requiring an API subscription.
+
+## Tracked implementation gates
+
+Independent benchmark and review: [Gate A](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/1). Deterministic four-arm evaluator with contamination and lesion checks: [Gate B](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/2). Registered experiment and architectural decision after both gates: [Gate C](https://github.com/Azimn/Artificial-Life-Research-Journal/issues/3).
 
 ## Required report structure
 
