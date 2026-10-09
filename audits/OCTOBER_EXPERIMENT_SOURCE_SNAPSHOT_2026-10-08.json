@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-10-08",
+  "scope": "Source file identity pins for EXP-2026-034 through EXP-2026-060. Verification means fetched Git blob existed; not independent experimental reproduction.",
+  "entries": [
+    {
+      "id": "EXP-2026-034",
+      "url": "https://github.com/Azimn/Frankenstein/blob/main/README.md",
+      "repository": "Frankenstein",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "d0a184148d81c84d4a686ee1d7e934cc06355d51"
+    },
+    {
+      "id": "EXP-2026-035",
+      "url": "https://github.com/Azimn/The-Bride-of-Frankenstein/blob/main/README.md",
+      "repository": "The-Bride-of-Frankenstein",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "a7651671396b1cafc11b14c797178376a6cb9720"
+    },
+    {
+      "id": "EXP-2026-036",
+      "url": "https://github.com/Azimn/The-Bride-of-Frankenstein/blob/main/README.md",
+      "repository": "The-Bride-of-Frankenstein",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "a7651671396b1cafc11b14c797178376a6cb9720"
+    },
+    {
+      "id": "EXP-2026-037",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/README.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "1faa4e21dbccc8212894d882e255cf2b21fa2337"
+    },
+    {
+      "id": "EXP-2026-038",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/imprinting/PILOT03_RESULTS.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/imprinting/PILOT03_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "7f8edac58cfb77a674aecb96f7045c16e5e4c4d3"
+    },
+    {
+      "id": "EXP-2026-039",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/imprinting/PILOT04_RESULTS.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/imprinting/PILOT04_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "577ec73119b3f9b6186d4b9c84a1fd791d5c14b9"
+    },
+    {
+      "id": "EXP-2026-040",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/imprinting/PILOT05_RESULTS.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/imprinting/PILOT05_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "3d3a9a6d32c25fc7a8eaaf4742b48592a792f1c5"
+    },
+    {
+      "id": "EXP-2026-041",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/imprinting/PILOT07_RESULTS.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/imprinting/PILOT07_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "9b80bece10f844fad7ad6e9bc44ce3918f821313"
+    },
+    {
+      "id": "EXP-2026-042",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/associative/README.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/associative/README.md",
+      "verified": true,
+      "git_blob_sha": "840744fa8d1474d2634f53051ed76c9418e7fbf6"
+    }
+  ]
+}
