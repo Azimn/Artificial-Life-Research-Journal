@@ -29,7 +29,7 @@ Connect the existing, immutable source-pinned 450-event reconstructed Pretorius 
 
 **Positive engineering result:** Source-verified memory retrieval can alter the language renderer's output with a fixed Pretorius brain state and without promoting reconstructed autobiography to lived experience.
 
-**Negative or ambiguous behavioral findings:** One retrieved answer correctly mentioned the dead beetle but invented a homunculus identification; another conflated different events around Kappel's key. Two question pairs only echoed the questions. The baseline fabricated an 1982 spacecraft mission; the retrieved answer avoided that invention yet did not plainly reject the impossible premise. A changed reply is therefore not evidence of improved fact-grounding or personhood.
+**Negative or ambiguous behavioral findings:** One retrieved answer correctly mentioned the dead beetle but invented a homunculus identification; another conflated different events around Kappel's key. Two question pairs only echoed the questions. The baseline fabricated a 1982 spacecraft mission; the retrieved answer avoided that invention yet did not plainly reject the impossible premise. A changed reply is therefore not evidence of improved fact-grounding or personhood.
 
 **Validity limit:** The six challenge prompts were exposed and previously examined by the experiment authors. Full all-450 lookup is not episode-held-out retrieval, and the small 0.5B model has obvious generation weaknesses. Human-scored supported-claim accuracy, contradiction rejection, provenance discipline and cross-turn continuity **remain unmeasured**. The masked Stage 03 presentation is a scoring tool, not genuinely independent double-blind validation; the raw public responses can still be seen.
 
