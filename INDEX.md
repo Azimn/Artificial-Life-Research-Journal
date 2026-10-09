@@ -39,6 +39,8 @@ development             substrate
        adaptation and evolution
 ```
 
+[Real FlyWire direct synaptic imprinting: cumulative Pilots08–12](journal/2026/2026-10-08-flywire-direct-synaptic-imprint.md) documents source-heldout lexical cue failures, verified learned-edge association, acceptance tradeoffs, and the new pinned semantic-encoder × degree-preserving biological rewiring control. The journal remains the canonical cross-project record; model weights and original result JSONs remain in the owning Connectome repository.
+
 ## Cross-project character continuity
 
 The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) makes the program's competing external-loop, recurrent-learning, hybrid and cue-representation hypotheses explicit. Its [evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) distinguishes measured outcomes from interpretations, and its [shared comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md) specifies the proposed four-arm evaluation. See the [October 8 convergence journal entry](journal/2026/2026-10-08-character-continuity-convergence.md) for the program decision.
