@@ -41,7 +41,7 @@ The publicly documented implementation uses profiles, system prompts, soul-scrip
 
 ## Relevance to our program
 
-Three described systems appear to distinguish a protected identity substrate from writable experiential state: SoulScript's immutable identity index/mutable life index; a reported SoulCore "Tier 0" separation, whose primary source remains to be pinned; and [Calibos's cartridge versus experience records](https://github.com/Azimn/calibos-mind/blob/18497706f9ada6840c1e3bc40bf121941f9332e7/README.md). The [2024 Core Memories/SoulFile lineage](../projects/PRJ-023-Persona-Engine.md) may provide older related antecedents, subject to link validation.
+Three described systems appear to distinguish a protected identity substrate from writable experiential state: SoulScript's immutable identity index/mutable life index; a reported SoulCore "Tier 0" separation, whose primary source remains to be pinned; and [Calibos's cartridge versus experience records](https://github.com/Azimn/calibos-mind/blob/18497706f9ada6840c1e3bc40bf121941f9332e7/README.md). The [2024 Core Memories/SoulFile lineage](../projects/PRJ-023-Portable-Identity-Standards-Line.md) may provide older related antecedents, subject to link validation.
 
 This is **convergent engineering design**, not three independent experimental replications. The systems share broad conceptual antecedents, may have been exposed to similar ideas, and do not yet supply matched causal tests showing that the division is necessary or sufficient. It is nevertheless a concrete, plausible architecture hypothesis worth ablating.
 
