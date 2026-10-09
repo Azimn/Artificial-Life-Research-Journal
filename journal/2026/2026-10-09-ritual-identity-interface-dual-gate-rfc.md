@@ -35,3 +35,11 @@ Relevant literature:
 ## Same-day implementation update
 
 An **isolated offline contract prototype**, separate from the installed production brain, was added to [The Doctor Lives PR #28](https://github.com/Azimn/The-Doctor-Lives/pull/28). It includes standalone components for source-reference snapshots, cue handles, deterministic recovery ordering, external verification-result aggregation, capability preflight, independent world-event acceptance, and bounded self-relevance proposals, plus synthetic offline unit tests. The implementation is not connected to live Pretorius, supplies no model-independent identity efficacy result, and has no authority to alter canon or tool permissions. The source study remains unexecuted.
+
+## SelfBindingModulator follow-through (2026-10-09)
+
+The Doctor Lives draft [PR #28](https://github.com/Azimn/The-Doctor-Lives/pull/28) now includes an executable, standard-library-only `SelfBindingModulator` implementation and a deterministic synthetic lesion runner. It is kept in `research_prototypes/ritual_interface/self_binding_modulator.py`, not in `doctor_lives/`, and cannot modify production cognition or awareness. See [the component contract](https://github.com/Azimn/The-Doctor-Lives/blob/research/dual-gate-ritual-interface-20261009/docs/SELF_BINDING_MODULATOR_V1.md).
+
+Source-linked identity candidate signals produce capped nonnegative salience proposals. OFF, LOW, NORMAL, HIGH, and deterministic shuffled-evidence conditions share the same immutable identity snapshot, with version and manifest checks, explicit source-reference membership and a hashed engineer-only audit. An independently verified world contradiction suspends all identity bonuses in that batch. The synthetic unit tests and brain-test workflow have passed on the tested implementation revisions; final branch-tip checks are tracked in GitHub Actions.
+
+Interpretation limit: a synthetic salience rank change is not a measured character decision, subjective consciousness, or demonstrated continuity. Upstream Attractomancy EXP-0002 remains unexecuted. Promotion requires independent held-out world-interaction and renderer tests.
