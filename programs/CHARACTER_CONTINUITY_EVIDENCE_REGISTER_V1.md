@@ -8,6 +8,8 @@ updated: 2026-10-08
 
 # Character Continuity Evidence Register v1
 
+The [machine-readable source pin manifest](CHARACTER_CONTINUITY_SOURCE_PINS_V1.json) records exact repository commit SHAs and Git blob SHAs for all ten evidence-register entries. Its immutable report URLs prevent later README or result edits from silently changing the evidence basis of this initial synthesis. The manifest authenticates source-file identity, not independent experiment validity.
+
 ## Reading rule
 
 These are repository-reported exploratory findings inspected on 2026-10-08, not a pooled meta-analysis. Several studies reuse the same fictional autobiography, previously examined test prompts, correlated seeds, and author-generated labels. Do not aggregate percentages across tasks or treat them as independent replications. Follow the linked reports and exact run artifacts for source of truth. A result status of "negative" means its own tested claim was not established, not that a whole family of architectures has been falsified.
