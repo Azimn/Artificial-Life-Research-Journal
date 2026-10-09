@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "snapshot_date": "2026-10-08",
+  "description": "File-content Git blob SHA pins for the initial Character Continuity Evidence Register. These are documentation source snapshots, not independent verification of raw experimental results.",
+  "source_repository_heads": {
+    "Azimn/Pretorius-Neural-Network": "013714fe8cf5ea539da9fc33d1ce54cf8e0dd127",
+    "Azimn/Pretorius-Connectome": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+    "Azimn/Attractomancy": "3df7fe26c8eb7d5f0ee6916b329c39a21fe81d2b",
+    "Azimn/The-Doctor-Lives": "79b68524d824adf4032005f0168d22e53d1b06d5"
+  },
+  "evidence_pins": [
+    {
+      "evidence_id": "CC-E01",
+      "repository": "Azimn/Pretorius-Neural-Network",
+      "report_path": "EXPERIMENT_LOG.md",
+      "source_commit": "013714fe8cf5ea539da9fc33d1ce54cf8e0dd127",
+      "file_blob_sha": "d84bc2556bec0f71babb987d90f17ed1302fd268",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/013714fe8cf5ea539da9fc33d1ce54cf8e0dd127/EXPERIMENT_LOG.md"
+    },
+    {
+      "evidence_id": "CC-E02",
+      "repository": "Azimn/Pretorius-Neural-Network",
+      "report_path": "EXPERIMENT_LOG.md",
+      "source_commit": "013714fe8cf5ea539da9fc33d1ce54cf8e0dd127",
+      "file_blob_sha": "d84bc2556bec0f71babb987d90f17ed1302fd268",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/013714fe8cf5ea539da9fc33d1ce54cf8e0dd127/EXPERIMENT_LOG.md"
+    },
+    {
+      "evidence_id": "CC-E03",
+      "repository": "Azimn/Pretorius-Neural-Network",
+      "report_path": "results/biocircuit/BC01_D6A_RESULTS.md",
+      "source_commit": "013714fe8cf5ea539da9fc33d1ce54cf8e0dd127",
+      "file_blob_sha": "364a56f01a7c2d40a517870cf4b979f37778b4cd",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/013714fe8cf5ea539da9fc33d1ce54cf8e0dd127/results/biocircuit/BC01_D6A_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E04",
+      "repository": "Azimn/Pretorius-Connectome",
+      "report_path": "results/imprinting/PILOT03_RESULTS.md",
+      "source_commit": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+      "file_blob_sha": "7f8edac58cfb77a674aecb96f7045c16e5e4c4d3",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Connectome/blob/e7df5757c9e7d00519680f1dbdf5a8c26d174b27/results/imprinting/PILOT03_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E05",
+      "repository": "Azimn/Pretorius-Connectome",
+      "report_path": "results/imprinting/PILOT04_RESULTS.md",
+      "source_commit": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+      "file_blob_sha": "577ec73119b3f9b6186d4b9c84a1fd791d5c14b9",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Connectome/blob/e7df5757c9e7d00519680f1dbdf5a8c26d174b27/results/imprinting/PILOT04_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E06",
+      "repository": "Azimn/Pretorius-Connectome",
+      "report_path": "results/imprinting/PILOT05_RESULTS.md",
+      "source_commit": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+      "file_blob_sha": "3d3a9a6d32c25fc7a8eaaf4742b48592a792f1c5",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Connectome/blob/e7df5757c9e7d00519680f1dbdf5a8c26d174b27/results/imprinting/PILOT05_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E07",
+      "repository": "Azimn/Pretorius-Connectome",
+      "report_path": "results/imprinting/PILOT07_RESULTS.md",
+      "source_commit": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+      "file_blob_sha": "9b80bece10f844fad7ad6e9bc44ce3918f821313",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Connectome/blob/e7df5757c9e7d00519680f1dbdf5a8c26d174b27/results/imprinting/PILOT07_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E08",
+      "repository": "Azimn/Pretorius-Connectome",
+      "report_path": "results/associative/FLYWIRE_MB_PLASTICITY_PILOT01_RESULTS.md",
+      "source_commit": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
+      "file_blob_sha": "0c0b164efff7b878f7085a5555b5a53a7274dd08",
+      "immutable_url": "https://github.com/Azimn/Pretorius-Connectome/blob/e7df5757c9e7d00519680f1dbdf5a8c26d174b27/results/associative/FLYWIRE_MB_PLASTICITY_PILOT01_RESULTS.md"
+    },
+    {
+      "evidence_id": "CC-E09",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "docs/COLLECTION_READINESS_2026-10-08.md",
+      "source_commit": "3df7fe26c8eb7d5f0ee6916b329c39a21fe81d2b",
+      "file_blob_sha": "990055cc5dc19be09f9f80b4c721d8d2b93a9d7a",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/3df7fe26c8eb7d5f0ee6916b329c39a21fe81d2b/docs/COLLECTION_READINESS_2026-10-08.md"
+    },
+    {
+      "evidence_id": "CC-E10",
+      "repository": "Azimn/The-Doctor-Lives",
+      "report_path": "README.md",
+      "source_commit": "79b68524d824adf4032005f0168d22e53d1b06d5",
+      "file_blob_sha": "dbd7a4d77fa2f4306c67b664e401e6e1372bc4ff",
+      "immutable_url": "https://github.com/Azimn/The-Doctor-Lives/blob/79b68524d824adf4032005f0168d22e53d1b06d5/README.md"
+    }
+  ],
+  "scientific_caveat": "A source report's existence and exact Git hash are not evidence of statistical independence, ground truth or successful experimental replication."
+}
