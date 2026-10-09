@@ -3,7 +3,7 @@ id: OTHER-AI-TOOLS
 title: AI Tooling and Local Agent Projects
 type: other-project-category
 status: active
-updated: 2026-09-19
+updated: 2026-10-08
 ---
 
 # AI Tooling and Local Agent Projects
@@ -42,17 +42,27 @@ Android and Termux deployment experiments for local agent tooling.
 
 Repository: `ClawPhone`.
 
-## OPJ-TOOL-006: 01_lite_JR
+## OPJ-TOOL-006: Private hardware reference work
 
-AI-device and hardware-reference exploration.
-
-Repository: `01_lite_JR`.
+AI-device and hardware-reference exploration. The repository is not publicly identified here.
 
 ## OPJ-TOOL-007: Flowise experiments
 
 Workflow and agent-composition exploration using Flowise.
 
 Repository: `Flowise`.
+
+## OPJ-TOOL-008: Homuncula
+
+[Homuncula](https://github.com/Azimn/Homuncula-) is a locally controlled, Windows-first agent platform with durable responsibilities, tools, memory, event observation, local voice and installer/release automation. It is potentially useful as a future chassis for agents and controlled longitudinal evaluation, but app engineering and CI are not themselves psychological continuity findings.
+
+## OPJ-TOOL-009: MuseDesk Windows
+
+[museDesk](https://github.com/Azimn/museDesk) is a Windows-focused port overlay for an upstream Muse Code desktop UI. It is a development/workflow integration project, not an experiment with the Meta personal Muse cloud model or proof of artificial individuality.
+
+## OPJ-TOOL-010: Upstream Skales checkout
+
+The public repository currently named [Pretorius](https://github.com/Azimn/Pretorius) displays the Skales local-agent project README. Do not interpret its name as identifying the canonical Pretorius character brain. Authorship or substantive fork modifications require separate provenance review before being credited.
 
 ## Boundary with the core journal
 
