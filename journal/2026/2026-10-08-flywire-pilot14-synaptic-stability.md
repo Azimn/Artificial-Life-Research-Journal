@@ -70,3 +70,8 @@ The original additive network's first-16 mean own-source-content minus best comp
 [Measured real Pilot14 source result](https://github.com/Azimn/Pretorius-Connectome/blob/experiment/flywire-pilot14-synaptic-stability/results/imprinting/PILOT14_REAL_V783_PROVISIONAL.md) is committed in the owning project's experimental branch; the complete real source workflows and learned checkpoint SHA are preserved in the original Actions artifact. After merge, a separate main-branch publisher source run and fail-closed workflow-run archiver must permanently commit the unchanged raw JSON and all seven learned original NPZ files before claiming archival completion. This original real source result is genuine, but not yet independently source-main archived.
 
 **Next discriminating causal gate:** independently version a method that can retain earlier content *and* learn newly introduced events, with original/re-wired and nonneural parameter-count comparators and independently authored new cue tests. Do not post-hoc tune Pilot14 β values on their already-used heldout 159/71/31 source evaluation sets.
+
+
+## Archive status correction, 2026-10-09
+
+The earlier pending-archive language above is historical. Pilot14 original full-v783 source-main run 37883362633 completed successfully, and commit 6d2768211f5c2184c8bbdb833c06e169b5137197 permanently archived the original 4,786,425-byte case JSON and all seven trained-state NPZ checkpoints. The source result remains negative for balanced old/new learning and unseen-cue generalization. The separate Pilot13 float32 archive discrepancy is not resolved by this Pilot14 completion.
