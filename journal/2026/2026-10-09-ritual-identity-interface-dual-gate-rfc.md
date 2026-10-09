@@ -31,3 +31,7 @@ Relevant literature:
 - REBUS, Carhart-Harris and Friston (2019): https://pubmed.ncbi.nlm.nih.gov/31221820/
 - Thalamic contributions to conscious state/content (2024): https://doi.org/10.1016/j.neuron.2024.04.019
 - Psychedelic network-connectivity scoping review (2024): https://doi.org/10.3389/fpsyt.2024.1386321
+
+## Same-day implementation update
+
+An **isolated offline contract prototype**, separate from the installed production brain, was added to [The Doctor Lives PR #28](https://github.com/Azimn/The-Doctor-Lives/pull/28). It includes standalone components for source-reference snapshots, cue handles, deterministic recovery ordering, external verification-result aggregation, capability preflight, independent world-event acceptance, and bounded self-relevance proposals, plus synthetic offline unit tests. The implementation is not connected to live Pretorius, supplies no model-independent identity efficacy result, and has no authority to alter canon or tool permissions. The source study remains unexecuted.
