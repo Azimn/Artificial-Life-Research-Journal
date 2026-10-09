@@ -12,7 +12,7 @@ The [October portfolio audit](PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md) identi
 
 ## Highest-impact scientific backfill
 
-**Detailed BioCircuit chronology:** Verify every source-linked BC00, BC01-D1 through D6A, shared-memory adapter, control, test seed, full raw-case JSON, and contamination boundary. The central [experiment ledger](../EXPERIMENT_LEDGER.md) now indexes milestones but does not duplicate raw cases. Existing neural results should remain immutable.
+**Detailed BioCircuit chronology:** Verify every source-linked BC00, BC01-D1 through D6A, shared-memory adapter, control, test seed, full raw-case JSON, and contamination boundary. The central [experiment ledger](../EXPERIMENT_LEDGER.md) indexes milestones, and the [source snapshot](OCTOBER_EXPERIMENT_SOURCE_SNAPSHOT_2026-10-08.json) now SHA-pins all 27 linked source reports. It does not duplicate raw case-level traces or audit every result reproduction. Existing neural results should remain immutable.
 
 **FlyWire anatomical experiment chronology:** Reconcile synthetic Pilots 01-07 with full v783 topology, mushroom-body restriction, degree-rewired controls, activity-trace plasticity, historical unstable L2 v1 and corrected deterministic v2. Do not mix distinct encoder versions or sum repeated prompts as independent observations. Keep original source and CI case-level URLs.
 
