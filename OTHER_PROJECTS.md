@@ -3,7 +3,7 @@ id: OTHER-PROJECTS
 title: Other Projects Registry
 type: registry
 status: active
-updated: 2026-09-19
+updated: 2026-10-08
 ---
 
 # Other Projects Registry
@@ -41,3 +41,7 @@ Move an `OPJ` item into the core research registry only when all three are true:
 3. its inclusion improves the scientific history rather than merely broadening the archive.
 
 Until then, it remains searchable here without diluting the lab notebook.
+
+## October repository coverage
+
+The [2026-10-08 portfolio completeness audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md) covers 53 public Azimn GitHub repositories and tracks the scientific versus adjacent-engineering boundary. The [public CSV inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv) allows later completeness checks without promoting ordinary game templates or third-party reference repositories to artificial-life experimental evidence. Private repository identifiers and contents are intentionally omitted from the public inventory.
