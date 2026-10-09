@@ -3,12 +3,20 @@ id: PROGRAMS
 title: Research Programs
 type: index
 status: active
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Research Programs
 
 The projects form overlapping experimental programs. A project can belong to more than one program.
+
+## Cumulative character continuity (active cross-project program)
+
+Core question: which persistent causal mechanisms make a synthetic character's history influence later grounded recall, relationships, commitments and choices across context and renderer changes?
+
+The [formal program](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) connects competing external memory, learned recurrent substrate, hybrid and cue-representation explanations. It links [source-grounded findings](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) from Pretorius Neural Network / BioCircuit, Pretorius Connectome / FlyWire, Attractomancy, and The Doctor Lives to a [proposed common comparison](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md). Other portfolio lines including DUCK, PEMA, developmental individuality, and champion/challenger remain mechanism donors, not automatic participants in the first-stage benchmark.
+
+Primary questions: RQ-001, RQ-002, RQ-003, RQ-004 and RQ-006. No new PRJ record is created merely for the program itself.
 
 ## Portable identity and continuity
 
