@@ -164,6 +164,87 @@
       "path": "README.md",
       "verified": true,
       "git_blob_sha": "f31bcc53ad9c3b97c78e1fd83491526e4eb28ffa"
+    },
+    {
+      "id": "EXP-2026-052",
+      "url": "https://github.com/Azimn/Kiki-Mind/blob/main/README.md",
+      "repository": "Kiki-Mind",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "f31bcc53ad9c3b97c78e1fd83491526e4eb28ffa"
+    },
+    {
+      "id": "EXP-2026-053",
+      "url": "https://github.com/Azimn/The-Doctor-Lives/blob/main/README.md",
+      "repository": "The-Doctor-Lives",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "dbd7a4d77fa2f4306c67b664e401e6e1372bc4ff"
+    },
+    {
+      "id": "EXP-2026-054",
+      "url": "https://github.com/Azimn/The-Doctor-Lives/blob/main/README.md",
+      "repository": "The-Doctor-Lives",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "dbd7a4d77fa2f4306c67b664e401e6e1372bc4ff"
+    },
+    {
+      "id": "EXP-2026-055",
+      "url": "https://github.com/Azimn/Attractomancy/blob/main/README.md",
+      "repository": "Attractomancy",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "02b12b7741043d6666dab6a499519e28e9966b79"
+    },
+    {
+      "id": "EXP-2026-056",
+      "url": "https://github.com/Azimn/calibos-mind/blob/main/README.md",
+      "repository": "calibos-mind",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "4f5290fa5b6b90c37fa47b70e5c049fbba6a815f"
+    },
+    {
+      "id": "EXP-2026-057",
+      "url": "https://github.com/Azimn/Agent-Pretorius/blob/main/README.md",
+      "repository": "Agent-Pretorius",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "94d08a513c4632a1cf3d4b918918daa9cc7918f2"
+    },
+    {
+      "id": "EXP-2026-058",
+      "url": "https://github.com/Azimn/npc-steering-plus/blob/main/README.md",
+      "repository": "npc-steering-plus",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "2239086ae777652c974556b3e6c5979bbee42387"
+    },
+    {
+      "id": "EXP-2026-059",
+      "url": "https://github.com/Azimn/game-night/blob/main/README.md",
+      "repository": "game-night",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "8fa24a1e9cacacbdfd3bae5d35df2f856ba07fb6"
+    },
+    {
+      "id": "EXP-2026-060",
+      "url": "https://github.com/Azimn/Kiki-Mind/blob/main/README.md",
+      "repository": "Kiki-Mind",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "f31bcc53ad9c3b97c78e1fd83491526e4eb28ffa"
     }
   ]
 }
