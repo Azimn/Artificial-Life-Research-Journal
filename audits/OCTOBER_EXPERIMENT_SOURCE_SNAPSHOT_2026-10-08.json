@@ -83,6 +83,87 @@
       "path": "results/associative/README.md",
       "verified": true,
       "git_blob_sha": "840744fa8d1474d2634f53051ed76c9418e7fbf6"
+    },
+    {
+      "id": "EXP-2026-043",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/results/associative/FLYWIRE_MB_PLASTICITY_PILOT01_RESULTS.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "results/associative/FLYWIRE_MB_PLASTICITY_PILOT01_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "0c0b164efff7b878f7085a5555b5a53a7274dd08"
+    },
+    {
+      "id": "EXP-2026-044",
+      "url": "https://github.com/Azimn/Pretorius-Connectome/blob/main/docs/VECTOR_FLY_AGENT_API_V1.md",
+      "repository": "Pretorius-Connectome",
+      "ref": "main",
+      "path": "docs/VECTOR_FLY_AGENT_API_V1.md",
+      "verified": true,
+      "git_blob_sha": "1b53b5f2ae1f590fa54bbfd6744fa8a09aed58e8"
+    },
+    {
+      "id": "EXP-2026-045",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/results/biocircuit/BC00_RESULTS.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "results/biocircuit/BC00_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "d753947ce5e8bba18ccd7573e9153b93cb7b4440"
+    },
+    {
+      "id": "EXP-2026-046",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/README.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "fa1d501bff049060e8dc0ec7e3da5a183c3924c4"
+    },
+    {
+      "id": "EXP-2026-047",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/results/biocircuit/BC01_D3_RESULTS.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "results/biocircuit/BC01_D3_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "0901c186a11f24eaa408213e0ea5a5b477bfbbb5"
+    },
+    {
+      "id": "EXP-2026-048",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/results/biocircuit/BC01_D5B_RESULTS.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "results/biocircuit/BC01_D5B_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "72f0727a5f5113461b02349bd910fa00d92e3ff7"
+    },
+    {
+      "id": "EXP-2026-049",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/results/biocircuit/BC01_D6A_RESULTS.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "results/biocircuit/BC01_D6A_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "364a56f01a7c2d40a517870cf4b979f37778b4cd"
+    },
+    {
+      "id": "EXP-2026-050",
+      "url": "https://github.com/Azimn/Pretorius-Neural-Network/blob/main/results/biocircuit/BC01_SHARED_MEMORY_RESULTS.md",
+      "repository": "Pretorius-Neural-Network",
+      "ref": "main",
+      "path": "results/biocircuit/BC01_SHARED_MEMORY_RESULTS.md",
+      "verified": true,
+      "git_blob_sha": "5368139b06fc5538989edf9f403a86e29c15221c"
+    },
+    {
+      "id": "EXP-2026-051",
+      "url": "https://github.com/Azimn/Kiki-Mind/blob/main/README.md",
+      "repository": "Kiki-Mind",
+      "ref": "main",
+      "path": "README.md",
+      "verified": true,
+      "git_blob_sha": "f31bcc53ad9c3b97c78e1fd83491526e4eb28ffa"
     }
   ]
 }
