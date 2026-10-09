@@ -3,7 +3,7 @@ id: EXPERIMENT-LEDGER
 title: Experiment Ledger
 type: registry
 status: active
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Experiment Ledger
@@ -45,7 +45,7 @@ This ledger is intentionally evidence-oriented. It includes successful, negative
 | EXP-2026-031 | Creature Lab v0.2 ontogenetic plasticity | PRJ-019 | Does lived experience change future processing architecture rather than merely stored state? | Added bounded developmental plasticity to fixed versus plastic PEMA comparisons; detailed result backfill remains needed. |
 | EXP-2026-032 | Project Janus grounded-control design | PRJ-025 | Does deterministic world grounding improve belief revision and causal agency over an otherwise matched roleplay condition? | Experimental design recovered; execution outcome has not yet been established in this journal. |
 
-| EXP-2023-001 | Pooka companion concept | PRJ-021 | Can a child-facing AI combine tutor, friend, pet, customization, and future embodiment? | Concept and pitch recovered; no completed product evidence. |
+| EXP-2026-033 | Cross-Architecture Character Continuity Comparison v1 | PRJ-002 / PRJ-007 / PRJ-009 / PRJ-013 | Under matched histories and independently reviewed prompts, what causal contribution comes from external history, learned recurrent weights, and their interaction? | Registered design only; no arms evaluated and no independent test set accepted. See [shared protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md). |\n\n| EXP-2023-001 | Pooka companion concept | PRJ-021 | Can a child-facing AI combine tutor, friend, pet, customization, and future embodiment? | Concept and pitch recovered; no completed product evidence. |
 | EXP-2023-002 | Six Emotional Dimension model | PRJ-033 | Can six explicit affect dimensions capture subtle text-based emotional state? | Published conceptual model recovered; standalone validation or software results not established. |
 | EXP-2023-003 | Modular Cognitive Agents | PRJ-032 | Can specialized cognitive modules coordinate into a coherent artificial self? | Published architecture recovered; no 2023 prototype result established. |
 | EXP-2023-004 | SP-1K / 5Y-NX character experiments | PRJ-036 | What changes when an AI character is framed as autonomous digital life rather than an assistant? | Prompt and character research only; important as conceptual precursor, not artificial-life evidence. |
