@@ -3,7 +3,7 @@ id: OTHER-GAME
 title: Game Development and Retro Projects
 type: other-project-category
 status: active
-updated: 2026-09-19
+updated: 2026-10-08
 ---
 
 # Game Development and Retro Projects
@@ -51,6 +51,10 @@ UEFN-based student and teaching game project exploring how a game-design cohort 
 ## OPJ-GAME-008: UEFN HOPA engine
 
 A small hidden-object puzzle adventure engine concept for UEFN, aimed at reproducing some of the structure and presentation of Big Fish-style Collector's Edition HOPA games while minimizing the default Fortnite aesthetic.
+
+## OPJ-GAME-009: Frankenstein Village
+
+[Frankenstein Village](https://github.com/Azimn/frankenstein-village) is an ongoing mixed human/AI Evennia MUD with persistent residents, social systems, profession-driven investigations and world-authority boundaries. It is a useful potential naturalistic world for testing synthetic agents, but feature CI and quest behavior are game engineering rather than sealed evidence of autonomous cognitive continuity. New research use must specify a distinct controlled protocol; the game is not a clone of the Frankenstein character runtime or Bride.
 
 ## Reference and starter repositories
 
