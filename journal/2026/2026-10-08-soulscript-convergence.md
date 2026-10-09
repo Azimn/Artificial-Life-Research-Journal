@@ -20,7 +20,7 @@ The [source-level literature note](../../literature/2026-10-08-orionforge-soulsc
 
 ## Convergent architecture with a sharp evidence boundary
 
-SoulScript has a read-only identity FAISS index and writable life-memory index. Calibos describes its [cartridge roots and mutable experience records](https://github.com/Azimn/calibos-mind/blob/18497706f9ada6840c1e3bc40bf121941f9332e7/README.md) and compares another reported design, SoulCore Tier 0, whose primary source still requires verification. Earlier local [Core Memories and SoulFile work](../../projects/PRJ-023-Persona-Engine.md) supplies additional historical context.
+SoulScript has a read-only identity FAISS index and writable life-memory index. Calibos describes its [cartridge roots and mutable experience records](https://github.com/Azimn/calibos-mind/blob/18497706f9ada6840c1e3bc40bf121941f9332e7/README.md) and compares another reported design, SoulCore Tier 0, whose primary source still requires verification. Earlier local [Core Memories and SoulFile work](../../projects/PRJ-023-Portable-Identity-Standards-Line.md) supplies additional historical context.
 
 Multiple teams choosing this split makes it a compelling *convergent engineering hypothesis*. Independence of discovery, necessary versus convenient structure, and advantage over a single-store or dynamic-identity variant remain unproven. This supports prioritizing causal comparison, not claiming replication.
 
