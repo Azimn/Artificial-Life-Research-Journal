@@ -19,3 +19,5 @@ Future literature notes should use the template in [../templates/literature-note
 - results actually reported,
 - the journal project's interpretation,
 - and later experiments influenced by the source.
+
+External architecture note: [OrionForge SoulScript Engine dual-store identity and mutable experience](2026-10-08-orionforge-soulscript-engine.md). Its new Reddit-described autonomous cycle is not independently verified in the September 30 public code head.
