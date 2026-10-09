@@ -3,7 +3,7 @@ id: INDEX
 title: Research Knowledge Map
 type: index
 status: active
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Research Knowledge Map
@@ -38,6 +38,10 @@ development             substrate
                 v
        adaptation and evolution
 ```
+
+## Cross-project character continuity
+
+The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) makes the program's competing external-loop, recurrent-learning, hybrid and cue-representation hypotheses explicit. Its [evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) distinguishes measured outcomes from interpretations, and its [shared comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md) specifies the proposed four-arm evaluation. See the [October 8 convergence journal entry](journal/2026/2026-10-08-character-continuity-convergence.md) for the program decision.
 
 ## Core research questions
 
