@@ -3,7 +3,7 @@ id: HOME
 title: Artificial Life Research Journal
 type: index
 status: active
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Artificial Life Research Journal
@@ -13,6 +13,10 @@ updated: 2026-09-18
 This repository is the canonical research memory for an ongoing program of experiments in persistent artificial individuals, digital organisms, developmental identity, artificial-life substrates, subjective cognition, emergent ecology, and believable characters.
 
 The code for an experiment may live in another repository. The scientific record belongs here.
+
+## Current cross-project program
+
+The [Character Continuity Research Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) unifies the experimental interpretation of neural substrate learning, BioCircuit, FlyWire retrieval/imprinting, Attractomancy conditioning, and the definitive The Doctor Lives character. Start with the [cross-project evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) and [four-arm comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md). Source implementations and raw case-level evidence remain authoritative in their own repositories. The comparison protocol is a preregistration draft, not an executed study.
 
 ## Central question
 
