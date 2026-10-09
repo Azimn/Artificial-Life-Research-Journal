@@ -3,7 +3,7 @@ id: RQ-001
 title: Persistent Artificial Identity
 type: research-question
 status: open
-updated: 2026-09-18
+updated: 2026-10-08
 projects:
   - PRJ-007
   - PRJ-009
@@ -48,3 +48,9 @@ The Pretorius Identity Surgery result showed that apparent learned phenotype can
 ## Unresolved tests
 
 Cross-renderer continuity, state transfer between architectures, destructive identity surgery, long-horizon relationship development, and controlled partial transfer remain central tests.
+
+## Cumulative experimental synthesis, 2026-10-08
+
+The [cross-project character continuity program](../programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) now treats external-loop sufficiency, recurrent-learning contribution, hybrid interaction, and cue-representation limits as competing empirical explanations. The [evidence register](../programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) documents decoder-localized default phenotype, a bounded recurrent-only counterexample, lexical-to-semantic retrieval failure, and limitations of the first external verifier. These findings do not establish where all identity must reside.
+
+The [proposed matched study](../programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md) will use paired causal lesion and state-removal interventions with independently reviewed source-grounded and behavioral probes. Do not count this proposed experiment as completed evidence.
