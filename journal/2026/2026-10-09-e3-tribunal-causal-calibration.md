@@ -2,7 +2,7 @@
 id: JRN-2026-10-09-04
 title: "E3 Tribunal of Memory: factorial source-necessity controls and blinded annotation infrastructure"
 type: journal-entry
-status: exploratory-qwen-calibration-complete-independent-family-active
+status: exploratory-cross-family-calibration-complete
 date: 2026-10-09
 updated: 2026-10-09
 research_questions:
@@ -44,6 +44,14 @@ The upstream identity guard rejected **12/12** deliberately mismatched synthetic
 
 An [independent SmolLM2-1.7B calibration](https://github.com/Azimn/Attractomancy/blob/main/.github/workflows/sch-e3c-v2-smollm.yml) was scheduled as a real GitHub Actions run, using the same fixed v2 fixture and CPU inference without any paid API. It has **no reported result** until its own data commit and verification are complete.
 
+## Independently developed model-family replication
+
+The independently developed [SmolLM2-1.7B v2 experiment](https://github.com/Azimn/Attractomancy/actions/runs/38025884130) completed all 84 source-isolated synthetic cases, retaining original generations and model revision \`31b70e2e869a7173562077fd711b654946d38674\`. In the complete forced binary conditions it matched the deterministic two-record target **5/12** under the editorial marker and **5/12** under neutral keys; source-absent forced guesses matched **4/12**. It produced **0/6 fully correct counterfactual flip pairs** in either forced complete-record arm; a separate answer-or-abstain arm had **1/6 correctly flipped pairs** (7/12 individual decisions), but failed all first-only/missing-evidence abstention tests. Eleven of twelve cue/key forced outputs were identical, with no demonstrated symbolic benefit. The upstream identity guard rejected all wrong-owner records (12/12), although the model still guessed instead of abstaining once the foreign source was removed.
+
+The same corrected dataset now has verified outcomes across *two Qwen sizes plus SmolLM2*, with no fully correct forced-choice counterfactual reversals. This strengthens the negative result *for the exact small-model, two-bit prompt setup*, without confirming a general deficiency in LLM reasoning or the deployed Pretorius architecture.
+
+A new [E3-T1 Clerk protocol](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/CLERK_PROTOCOL.md) and [source-attested extractor](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/clerk_extraction.py) isolate record-specific typed fact extraction from a downstream deterministic evaluator. That evaluator's correctness is software-programmed and is not model cognition. T1's new raw-model results must be verified independently before any new effectiveness claim.
+
 ## Pending update boundary
 
-The original v1 outputs remain preserved but are methodologically invalid for the two-record necessity claim due to cross-bit event-ID leakage. The independent cross-family SmolLM2 extension still awaits source-specific output verification. Do not pool versioned results or substitute the synthetic calibration for E3's unexecuted, human-blinded source relevance experiment.
+The original v1 outputs remain preserved but are methodologically invalid for the two-record necessity claim due to cross-bit event-ID leakage. The independent SmolLM2 v2 outputs are now verified and documented above. Do not pool versioned results or substitute the synthetic calibration for E3's unexecuted, human-blinded source relevance experiment.
