@@ -1,8 +1,8 @@
 # Kiki Memory-to-Cognition v0.4: public bAbI QA and the multi-hop retrieval null
 
 **Research date:** 2026-10-10  
-**Implementation:** [Azimn/Kiki-Mind PR #10](https://github.com/Azimn/Kiki-Mind/pull/10).  
-**Original fully completed CI:** [38060905490](https://github.com/Azimn/Kiki-Mind/actions/runs/38060905490). Full original Kiki regression + prior v0.1-v0.3 integration gates and new v0.4 unit tests passed. The exact final-head merge is to be recorded after verification.  
+**Implementation:** [Azimn/Kiki-Mind PR #10](https://github.com/Azimn/Kiki-Mind/pull/10), **merged** into Kiki Mind `main` at exact commit `bfc283bc9fd5ba6896a2bef835093606e30f63bb`.  
+**Completed CI:** [original run 38060905490](https://github.com/Azimn/Kiki-Mind/actions/runs/38060905490), [final-head benchmark 38061113629](https://github.com/Azimn/Kiki-Mind/actions/runs/38061113629), and [final-head original Kiki regression 38061113654](https://github.com/Azimn/Kiki-Mind/actions/runs/38061113654) all passed. Full original Kiki regression, prior v0.1-v0.3 integration gates and new v0.4 unit tests passed. Final verified PR head was `0471efecdb86c7c612c01007889fbc7a8cb69896`.  
 **Original benchmark:** Weston et al. (2015), [Meta's bAbI tasks](https://github.com/facebookarchive/bAbI-tasks), CC BY 3.0 [HF dataset card](https://huggingface.co/datasets/facebook/babi_qa).  
 **Exact public source:** [azreasoners/LLM-ASP revision `642a9ade9c92677b970b1bc9921cafb0764d2ed7`](https://github.com/azreasoners/LLM-ASP/tree/642a9ade9c92677b970b1bc9921cafb0764d2ed7/bAbI/data), qa1 Git blob `8f9586848f7b0afdccb25328feeb04d561c31756`, qa2 `6deccd0cf07947ff525839a7b4643c6e0afe1b92`, qa6 `da25e9fd5bb7d69c7150b208051b1413fd91ff2b`. Source bytes and upstream commits are verified before any test results are calculated.  
 **Shared port pinned source:** Pretorius-Connectome `cc82c72167d87c19f16125ccdf9477b53c777878`.
@@ -40,3 +40,5 @@ Mean official required-support recall for the shared port was qa1 1.00, **qa2 0.
 Do not change v0.4's already observed outcome. Create a separate preregistered **two-hop evidence-chain retrieval v0.5** on a fresh, uninspected external benchmark slice (e.g., test ordinals **201-240** at the same upstream pin). Infer a holder from retrieved object evidence, then retrieve the holder's movements with a fixed overall source budget, comparing the original one-shot ranking, native vs port identical-evidence, random fixed-budget and full-context conditions. Include owner-swap/rumor provenance failures and all case-level citations.
 
 **Interpretation boundary:** even successful learned or rule-based retrieval on bAbI is not equivalent to character identity continuity or human autobiographical cognition. Issue [Kiki Mind #8](https://github.com/Azimn/Kiki-Mind/issues/8) remains open for independent authoring/grading and more naturalistic language/continuity tasks.
+
+**Follow-on tracking:** [Kiki Mind Issue #11](https://github.com/Azimn/Kiki-Mind/issues/11) freezes new public benchmark ordinals 201–240 for bounded evidence-chain retrieval; [Issue #8](https://github.com/Azimn/Kiki-Mind/issues/8) stays open for independent semantic validation.
