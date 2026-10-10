@@ -3,7 +3,7 @@ id: PROJECT-REGISTRY
 title: Project Registry
 type: registry
 status: active
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Project Registry
@@ -57,6 +57,8 @@ This registry tracks research projects, not every software repository. Forks, in
 | PRJ-041 | Calibos Mind | Can an endogenous long-running subject accumulate privacy-preserving continuity through bounded memory, salience, consolidation, and concern loops? | operational exploratory |
 | PRJ-042 | Agent Pretorius | Can a rich Hermes reference reconstruction maintain provenance-grounded autobiographical and research continuity across model replacement? | active reference implementation |
 | PRJ-043 | Activation-Space Affect Steering | Can symbolic affect plus activation read/write feedback causally shape expressions across a frozen model without prompt-only attribution? | model-dependent research prototype |
+
+| PRJ-044 | [The Noetic Engine](https://github.com/Azimn/The-Noetic-Engine) | Can an inspectable, renderer-independent cognitive control law integrate provenance-gated memory, relationships, intentions, affect and self-model revision while outperforming matched simpler baselines? | speculative architecture and deterministic engineering foundation; no efficacy validation |
 
 The October 8 backfill adds seven distinct research records, while BioCircuit remains a subline of PRJ-002 and Kiki Mind remains an implementation of PRJ-027. See the [October portfolio audit](audits/PORTFOLIO_COMPLETENESS_AUDIT_2026-10-08.md) and [public repository inventory](audits/PUBLIC_REPOSITORY_INVENTORY_2026-10-08.csv) for canonical/noncanonical boundaries.
 
