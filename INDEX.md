@@ -3,7 +3,7 @@ id: INDEX
 title: Research Knowledge Map
 type: index
 status: active
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Research Knowledge Map
@@ -48,6 +48,8 @@ The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_
 [Pilot13 original FlyWire memory-capacity and interference study](journal/2026/2026-10-08-flywire-pilot13-capacity.md) links the seven-stage synthetic results and original-v783 biological completion gate to the cumulative character-continuity investigation. It preserves the distinction between external-oracle numeric associations and autonomous memory.
 
 [SoulScript external prior art and the Calibos scheduling critique](journal/2026/2026-10-08-soulscript-convergence.md) records the verified frozen-identity/mutable-life separation, correct attribution and explicit code-drop-pending status. The [source note](literature/2026-10-08-orionforge-soulscript-engine.md) separates architectural claims from executed evidence. [EXP-2026-064](programs/EXP-2026-064_SURPRISE_SCHEDULING_AND_SCARCITY_V0.md) registers fixed, random, surprise and shuffled controls and distinguishes uniform energy slowdown from urgency-sensitive reallocation; all outcomes remain proposed.
+
+[Minixhofer et al.'s 2026 Nature byteification study](literature/2026-10-09-minixhofer-byteification.md) is recorded as published external evidence for capability preservation during a learned representation-interface retrofit, with an unexecuted proposal to compare subword and byteified model sensitivity to persona cues. No identity-transfer result is attributed to the paper.
 
 [FlyWire Pilot14 synaptic write-stability and interference controls](journal/2026/2026-10-08-flywire-pilot14-synaptic-stability.md) preserves seven-arm usage-protection and nonneural parameter-matched experimental provenance; original biological source verification remains distinct from synthetic engineering results.
 
