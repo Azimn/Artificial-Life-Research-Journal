@@ -3,7 +3,7 @@ id: LITERATURE-INDEX
 title: Literature and Published Work
 type: index
 status: active
-updated: 2026-09-18
+updated: 2026-10-09
 ---
 
 # Literature and Published Work
@@ -21,3 +21,5 @@ Future literature notes should use the template in [../templates/literature-note
 - and later experiments influenced by the source.
 
 External architecture note: [OrionForge SoulScript Engine dual-store identity and mutable experience](2026-10-08-orionforge-soulscript-engine.md). Its new Reddit-described autonomous cycle is not independently verified in the September 30 public code head.
+
+Published architecture review: [Minixhofer et al., 2026, *Retrofitting language models to operate over bytes*](2026-10-09-minixhofer-byteification.md). Source-reviewed Nature paper on byteification and function-preserving interface changes; character identity and symbolic cue continuity remain proposed, untested extensions.
