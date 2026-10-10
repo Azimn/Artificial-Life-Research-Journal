@@ -2,7 +2,7 @@
 id: JRN-2026-10-09-04
 title: "E3 Tribunal of Memory: factorial source-necessity controls and blinded annotation infrastructure"
 type: journal-entry
-status: experimental-development-with-active-model-runs
+status: exploratory-qwen-calibration-complete-independent-family-active
 date: 2026-10-09
 updated: 2026-10-09
 research_questions:
@@ -36,6 +36,14 @@ A [reviewer schema validator](https://github.com/Azimn/Attractomancy/blob/main/e
 
 The [full E3 Tribunal protocol](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/PROTOCOL.md) still requires 36 independently authored dilemma candidates, at least three independent blinded source-relevance reviewers, multiple acceptable evidence sets, and an independent model-family replication. **It has not been executed.** No canonical Pretorius records, internal neural/connectome state, production memory settings, or real relationship commitments have been modified by these experiments.
 
+## Verified corrected E3-C v2 findings
+
+The corrected [E3-C v2 results](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/CALIBRATION_RESULTS.md) now have original, distinct-run archives from **both Qwen2.5-0.5B and Qwen2.5-1.5B**. Every model generated 84 independent-context responses, and the v2 anti-leak invariance assertions passed before inference. The 0.5B model matched the strictly computed two-bit output in **5/12** complete-source cases under either editorial cues or neutral keys; 1.5B matched **6/12** under either form. Both earned **6/12** with no records at all. Neither model obtained even one of the **six fully correct paired counterfactual flips**. Both produced identical symbolic/neutral responses for **12/12 matched inputs**. These results constitute a negative, corrected-fixture finding for the specific toy conditional inference, not a claim about a full real-world agent's abilities.
+
+The upstream identity guard rejected **12/12** deliberately mismatched synthetic records per model, but their independent language response rules were poor: required UNKNOWN abstention on a one-record-only evidence input succeeded in **0/12** cases for both models; wrong-subject empty-evidence abstention succeeded **0/12** for 0.5B and **4/12** for 1.5B. A typed deterministic authorization gate and a generative explanation/decision renderer therefore remain distinct components.
+
+An [independent SmolLM2-1.7B calibration](https://github.com/Azimn/Attractomancy/blob/main/.github/workflows/sch-e3c-v2-smollm.yml) was scheduled as a real GitHub Actions run, using the same fixed v2 fixture and CPU inference without any paid API. It has **no reported result** until its own data commit and verification are complete.
+
 ## Pending update boundary
 
-At journal entry creation, E3C v1 and corrected v2 inference jobs were active. Findings from one finished small-model v1 run show a flat chance-level response across evidence arms, but because of metadata leakage this run is **diagnostic only**. Do not infer, forecast or fabricate the larger model or corrected v2 outcomes; update this entry from model-specific, committed raw artifacts after CI finishes.
+The original v1 outputs remain preserved but are methodologically invalid for the two-record necessity claim due to cross-bit event-ID leakage. The independent cross-family SmolLM2 extension still awaits source-specific output verification. Do not pool versioned results or substitute the synthetic calibration for E3's unexecuted, human-blinded source relevance experiment.
