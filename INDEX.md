@@ -61,6 +61,8 @@ The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_
 
 [Mirror Keys Pilot18 source-cue audit](journal/2026/2026-10-10-mirror-keys-cue-source-audit.md): train-only metric experiment and original unreviewed candidate cue provenance.
 
+[Pilot19 The Reliquary: event-owned cue-source association](journal/2026/2026-10-10-pilot19-reliquary-event-source.md) compares a provenance graph with an identical-source exact lookup, flat/narrative BM25 and wrong-owner negatives; 287/316 source detail matches are explicitly already indexed, not unseen semantics.
+
 ## Core research questions
 
 The current question set covers [persistent artificial identity](research-questions/RQ-001-persistent-artificial-identity.md), [developmental individuality](research-questions/RQ-002-developmental-individuality.md), [persistent substrates](research-questions/RQ-003-persistent-substrates.md), [subjective access](research-questions/RQ-004-subjective-access.md), [emergent ecology](research-questions/RQ-005-emergent-ecology.md), [artificiality and believability](research-questions/RQ-006-artificiality-and-believability.md), and [bounded self-modification](research-questions/RQ-007-bounded-self-modification.md).
