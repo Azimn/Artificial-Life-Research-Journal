@@ -2,7 +2,7 @@
 
 **Experiment date:** 2026-10-10, America/Chicago.
 **Engineering owner:** [Kiki-Mind](https://github.com/Azimn/Kiki-Mind), [PR #7](https://github.com/Azimn/Kiki-Mind/pull/7), [Issue #6](https://github.com/Azimn/Kiki-Mind/issues/6).
-**Measured complete run:** [GitHub Actions 38028146504](https://github.com/Azimn/Kiki-Mind/actions/runs/38028146504), green; full original Kiki regression, six new behavior acceptance tests, eight existing cross-port adapter tests, and actual offline synthetic run.
+**Measured complete run:** [GitHub Actions 38028146504](https://github.com/Azimn/Kiki-Mind/actions/runs/38028146504), green; full original Kiki regression, six new behavior acceptance tests, eight existing cross-port adapter tests, and actual offline synthetic run. **Final merged head also green:** [dedicated run 38028295419](https://github.com/Azimn/Kiki-Mind/actions/runs/38028295419) and [original Kiki regression 38028292335](https://github.com/Azimn/Kiki-Mind/actions/runs/38028292335). **Merged PR #7 commit:** `5956a3398a5b3ab72fe00197050a420d14870274`.
 **Frozen test fixture SHA-256:** `bcb86434da97ba0fbb5876a22f342b6cac8b930161f985c786a28bcbcee2cff7`.
 **Common port version:** [Pretorius-Connectome commit `cc82c72167d87c19f16125ccdf9477b53c777878`](https://github.com/Azimn/Pretorius-Connectome/commit/cc82c72167d87c19f16125ccdf9477b53c777878).
 
@@ -42,7 +42,7 @@ CPU timing from this one workflow's twelve decisions: no-retrieval 0.071 ms, alw
 - [CI original run and downloadable raw 48 case decisions](https://github.com/Azimn/Kiki-Mind/actions/runs/38028146504), workflow artifact `kiki-cognition-port-v02-fixed-battery` (90-day retention)
 - [Acceptance tests](https://github.com/Azimn/Kiki-Mind/blob/main/tests_integration/test_cognition_port_v02.py)
 
-PR #7 must still be confirmed merged before any link to `main` is taken as a main-branch guarantee. This note reports the **completed original CI**, not preemptive approval of unreviewed future changes.
+PR #7 was verified merged into Kiki-Mind `main` at `5956a3398a5b3ab72fe00197050a420d14870274`, with final-head green checks. [Issue #6](https://github.com/Azimn/Kiki-Mind/issues/6) is closed; [Issue #8](https://github.com/Azimn/Kiki-Mind/issues/8) records the separately gated semantic follow-up. No real character data or cognitive advantage was claimed.
 
 ## Recommended next gate
 
