@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "snapshot_date": "2026-10-08",
-  "description": "File-content Git blob SHA pins for the initial Character Continuity Evidence Register. These are documentation source snapshots, not independent verification of raw experimental results.",
+  "description": "File-content Git blob SHA pins for the initial Character Continuity Evidence Register and qualified later additions. These documentation snapshots do not independently verify the experiments.",
   "source_repository_heads": {
     "Azimn/Pretorius-Neural-Network": "013714fe8cf5ea539da9fc33d1ce54cf8e0dd127",
     "Azimn/Pretorius-Connectome": "e7df5757c9e7d00519680f1dbdf5a8c26d174b27",
@@ -88,6 +88,17 @@
       "source_commit": "79b68524d824adf4032005f0168d22e53d1b06d5",
       "file_blob_sha": "dbd7a4d77fa2f4306c67b664e401e6e1372bc4ff",
       "immutable_url": "https://github.com/Azimn/The-Doctor-Lives/blob/79b68524d824adf4032005f0168d22e53d1b06d5/README.md"
+    },
+    {
+      "evidence_id": "CC-E11",
+      "repository": "Azimn/The-Doctor-Lives",
+      "report_path": "results/self_binding/STAGE_01_EXECUTED_MEASUREMENTS.md",
+      "source_commit": "5629f1cba0000047321fffbbfc6367df23a173c2",
+      "file_blob_sha": "9b202dddbddf394a806ae4fa4ca107c9bfad5be2",
+      "immutable_url": "https://github.com/Azimn/The-Doctor-Lives/blob/5629f1cba0000047321fffbbfc6367df23a173c2/results/self_binding/STAGE_01_EXECUTED_MEASUREMENTS.md",
+      "workflow_run_id": 38009422045,
+      "source_execution_sha": "fafec951f4fb07470cb3d04f4830d61ea139a988",
+      "claim_status": "exploratory_null_or_mixed_no_action_change"
     }
   ],
   "scientific_caveat": "A source report's existence and exact Git hash are not evidence of statistical independence, ground truth or successful experimental replication."
