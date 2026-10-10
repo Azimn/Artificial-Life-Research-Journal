@@ -29,6 +29,12 @@ Each target is tested under three presentations: only the selected field, full o
 
 **Limitation:** These metadata are already explicit source fields. Ordinary software access can retrieve them *exactly by construction* without an LLM. Any copying metric measures model input-processing loss and source-label discipline, not autonomous semantic memory or greater character consistency. The narrative may support or contradict an author-written field, but exact text matching cannot determine that.
 
+## First-run failure and corrected v2
+
+The original v1 field-copying system prompt accidentally contained the exemplar literal \`{"answer":"source text"}\`. In a verified Qwen2.5-0.5B run, the model echoed the placeholder **70/72** times, producing **0/24** exact correct source strings in each source-visible arm and **0/24** correct JSON null responses in target-withheld cases. This is a **prompt-example echo confound**, not evidence that real Pretorius memories are inaccessible or incomprehensible. All 72 original outputs were preserved under the v1 run ID.
+
+The [corrected v2 runner](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/l1_field_extraction_v2.py) removes the literal example and uses verbal field instructions only, with assertions that the old \`"source text"\` placeholder cannot appear in the new 72 prompts. Source commit, twelve episodes, twenty-four original author-written field targets and test arms remain fixed. The v2 outcomes will be reported under separate workflow/run-specific result paths; the rerun is exploratory because it was designed after inspecting the initial outputs. **Do not pool v1 and v2 results**, conceal the v1 negative or describe v2 as an independent confirmatory replication.
+
 ## Distinct review task and uncollected evidence
 
 A separate [actual-L1 narrative assessment packet](https://github.com/Azimn/Attractomancy/tree/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/packets/l1-semantic-calibration) has passed GitHub CI. It contains **24 reviewer narrative tasks and 72 candidate interpretations**, mixing the event's original sidecar statement with within-episode and remote-event comparator statements. Candidate source origins and event IDs are hidden in the reviewer-facing document. The public archive remains reconstructible, so this is procedural masking, not cryptographically guaranteed blinding.
