@@ -53,6 +53,8 @@ The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_
 
 [FlyWire Pilot14 synaptic write-stability and interference controls](journal/2026/2026-10-08-flywire-pilot14-synaptic-stability.md) preserves seven-arm usage-protection and nonneural parameter-matched experimental provenance; original biological source verification remains distinct from synthetic engineering results.
 
+[Original FlyWire Pilot15 dual-timescale synaptic memory](journal/2026/2026-10-09-flywire-pilot15-dual-trace.md) records the fast/slow capacity expansion, source-controlled old/new learning test, matching two-trace nonneural baseline and original-v783 biological evidence gates.
+
 ## Core research questions
 
 The current question set covers [persistent artificial identity](research-questions/RQ-001-persistent-artificial-identity.md), [developmental individuality](research-questions/RQ-002-developmental-individuality.md), [persistent substrates](research-questions/RQ-003-persistent-substrates.md), [subjective access](research-questions/RQ-004-subjective-access.md), [emergent ecology](research-questions/RQ-005-emergent-ecology.md), [artificiality and believability](research-questions/RQ-006-artificiality-and-believability.md), and [bounded self-modification](research-questions/RQ-007-bounded-self-modification.md).
