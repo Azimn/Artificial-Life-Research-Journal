@@ -3,7 +3,7 @@ id: PROGRAM-CONTINUITY-001
 title: Character Continuity Research Program v1
 type: research-program
 status: active
-updated: 2026-10-08
+updated: 2026-10-09
 research_questions:
   - RQ-001
   - RQ-002
@@ -61,6 +61,10 @@ Continue the current neural and FlyWire experiments where they have a discrimina
 Every new candidate must identify a unique mechanism and an experiment that might disprove it. First register the hypothesis, source dependencies, controls, splitting boundary, per-condition resource budgets, primary metrics, and stopping rule. Then freeze the challenger and evaluator. Run matched controls and negative controls, record even null outcomes, and perform source/lesion or state-transfer tests. Only after a replicated, held-out benefit may a donor be proposed for opt-in production evaluation.
 
 A decision is **continue** when a specific next test can discriminate competing explanations; **hold** when labels, fair baselines, or reproducibility are missing; **archive** when a line has no remaining discriminating test at reasonable cost; **promote** only when the mechanism clears its registered scientific and production safety gates. Hold and archive preserve all original negative results.
+
+## Published prior art: representation-interface retrofitting
+
+The [2026 Nature byteification literature note](../literature/2026-10-09-minixhofer-byteification.md) documents evidence that a pretrained Transformer can retain substantial task capability after conversion from subword to byte-level inputs and outputs using newly trained interface components and follow-up training. This is relevant to H-CUE and decoder/interface lesion design, but is **not** direct evidence of autobiographical or character continuity. A proposed original-versus-byteified cue factorial is exploratory until the independent benchmark, information matching and preregistration gates are complete.
 
 ## Immediate common milestone
 
