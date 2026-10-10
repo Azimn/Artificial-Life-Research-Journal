@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "snapshot_date": "2026-10-09",
+  "description": "Addendum to CHARACTER_CONTINUITY_SOURCE_PINS_V1.json for exploratory SCH reports referenced as CC-E11 and CC-E12. Git blob pinning verifies which source files were read, not run validity or scientific independence.",
+  "source_repository_heads": {
+    "Azimn/Attractomancy": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a"
+  },
+  "evidence_pins": [
+    {
+      "evidence_id": "CC-E11",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "experiments/EXP-A_ZERO_SHOT_SYNTHEMATA/PILOT_ANALYSIS.md",
+      "source_commit": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a",
+      "file_blob_sha": "910aecbea6d55561c44a5368ea9e1af104a17ea7",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/fb28c716ec2fd29e7d8ae31ef1e35431ef20512a/experiments/EXP-A_ZERO_SHOT_SYNTHEMATA/PILOT_ANALYSIS.md"
+    },
+    {
+      "evidence_id": "CC-E11",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "experiments/SCH_FOLLOWUP_2026_10_09/RESULTS_STATUS.md",
+      "source_commit": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a",
+      "file_blob_sha": "61476e0775f3c65280f25928d8587c8ac16899bc",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/fb28c716ec2fd29e7d8ae31ef1e35431ef20512a/experiments/SCH_FOLLOWUP_2026_10_09/RESULTS_STATUS.md"
+    },
+    {
+      "evidence_id": "CC-E12",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "experiments/SCH_FOLLOWUP_2026_10_09/RESULTS_STATUS.md",
+      "source_commit": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a",
+      "file_blob_sha": "61476e0775f3c65280f25928d8587c8ac16899bc",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/fb28c716ec2fd29e7d8ae31ef1e35431ef20512a/experiments/SCH_FOLLOWUP_2026_10_09/RESULTS_STATUS.md"
+    },
+    {
+      "evidence_id": "CC-E12",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "experiments/SCH_FOLLOWUP_2026_10_09/results/b0-qwen25-05b-38015425441/summary.json",
+      "source_commit": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a",
+      "file_blob_sha": "27a1a16d9e7141f6d6cef2551b0fda68bb4cde8f",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/fb28c716ec2fd29e7d8ae31ef1e35431ef20512a/experiments/SCH_FOLLOWUP_2026_10_09/results/b0-qwen25-05b-38015425441/summary.json"
+    },
+    {
+      "evidence_id": "CC-E12",
+      "repository": "Azimn/Attractomancy",
+      "report_path": "experiments/SCH_FOLLOWUP_2026_10_09/results/b0-qwen25-15b-38015425441/summary.json",
+      "source_commit": "fb28c716ec2fd29e7d8ae31ef1e35431ef20512a",
+      "file_blob_sha": "ab2b28fecdfaa4f9b37e797a4cff451745da4320",
+      "immutable_url": "https://github.com/Azimn/Attractomancy/blob/fb28c716ec2fd29e7d8ae31ef1e35431ef20512a/experiments/SCH_FOLLOWUP_2026_10_09/results/b0-qwen25-15b-38015425441/summary.json"
+    }
+  ],
+  "scientific_caveat": "Exploratory pilot outcomes with reused authorship, models, and tasks are not independent confirmations; no long-term persona continuity was measured."
+}
