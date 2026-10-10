@@ -2,7 +2,7 @@
 id: JRN-2026-10-09-03
 title: "Pretorius E2: multi-memory evidence assembly and choice integration"
 type: journal-entry
-status: exploratory-negative-with-active-controls
+status: exploratory-complete-negative-and-prior-confounded
 date: 2026-10-09
 updated: 2026-10-09
 research_questions:
@@ -59,7 +59,29 @@ The source-side metadata records 912 authored directed links, of which 431 span 
 
 The [E2F forced-decision protocol](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E2_MULTIMEMORY_DECISIONS/FORCED_PROTOCOL.md) removes the \`UNKNOWN\` option when the task is intentionally a forced two-alternative calibration. Its key comparison is source-complete versus no-memory versus an unrelated two-record baseline on the **same six counterbalanced dilemmas**. This directly tests whether a plausible answer follows from generic moral priors rather than retrieved autobiography. If no-memory performance is comparable, high full-memory scoring cannot be attributed to the sources.
 
-No E2F numerical findings are asserted in this note until the distinct run artifacts have passed verification.
+### Completed E2F control results
+
+Both Qwen model sizes completed all 60 forced-choice cases each, and [raw results](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E2_MULTIMEMORY_DECISIONS/RESULTS.md) are archived separately from the original E2 conservative-prompt records.
+
+| Force A/B to evaluate the author's preferred answer | Qwen2.5-0.5B (of 12) | Qwen2.5-1.5B (of 12) |
+| --- | ---: | ---: |
+| Two correct archival records under editorial cues | 8 | 11 |
+| Same records under neutral keys | 8 | 11 |
+| First correct record only | 8 | 10 |
+| Two unrelated canonical records | 8 | 11 |
+| **No records at all** | **7** | **12** |
+
+Both models gave **12/12 identical editorial-versus-neutral results**. The small model's relevant two-record condition did no better than its unrelated two-record arm. The larger model achieved the greatest author-label agreement with **no memories**. Thus these investigator-authored dilemmas are answerable from ordinary model priors and normative option phrasing; the study supplies no evidence that reading autobiographical records improves the decision. The larger model's 72/72 UNKNOWN behavior under the prior conservative E2 prompt therefore reflected a prompt-dependent abstention pattern, not an established inability to select A or B.
+
+The full two-memory prompt cost approximately **705 tokens per case** compared with **179** without records. Higher information cost, unchanged source-specific choice accuracy, and editorial/neutral output equivalence reinforce the decision not to deploy symbolic-cue mediation or unconditional long dossier injection based on these pilots. This does not invalidate real source memory for queries requiring private facts, relational histories, or genuinely revised commitments.
+
+### Completed baseline reproducibility audit
+
+The initial observed E2R/E2G versus E2S lexical ranking discrepancy was checked in the [dedicated audit](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E2_MULTIMEMORY_DECISIONS/results/parity-run-38024737940/parity_audit.json). Source-manifest and query-fixture hashes matched across all runs. Within a five-stage fresh runtime audit, lexical score vectors were **identical before and after torch import, thread setting, MiniLM model load and full 450-document embedding forward pass**. This audit's rankings matched E2S and differed from E2R/E2G despite original rank stability within those other runs. Cross-run root cause remains unresolved; rank-level outputs have not been normalized or replaced. The aggregate source-pair recall finding is stable, but numerical reproducibility still needs stronger initialization and library-version controls.
+
+### Future evidence gate
+
+[E3 Tribunal of Memory](https://github.com/Azimn/Attractomancy/blob/main/experiments/SCH_E3_TRIBUNAL_OF_MEMORY/PROTOCOL.md) now specifies independent blinded evidence relevance, multiple acceptable source sets, source-sensitive rather than prosocial-default dilemmas, temporal revocation and missing-source controls, cross-model-family replication, and full token/cpu cost accounting. It is a future study design and **has not been run**.
 
 ## Architectural implications
 
