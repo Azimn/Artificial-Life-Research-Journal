@@ -1,0 +1,51 @@
+---
+id: JRN-2026-10-09-02
+title: "Mnemosyne (Pilot16): Pattern Separation and Error-Corrective Cue-to-Content Learning"
+type: journal-entry
+status: preregistered experiment, publisher-original real v783 verification pending
+updated: 2026-10-09
+projects:
+  - PRJ-038
+research_questions:
+  - RQ-001
+  - RQ-003
+  - RQ-006
+---
+
+# 2026-10-09: Mnemosyne — replacing superposition with learned error correction
+
+The ongoing [Pretorius-Connectome](https://github.com/Azimn/Pretorius-Connectome) program requires a new mechanistic intervention, not more protection of interfering weights. Earlier verified publisher-original 139,255-neuron full FlyWire v783 source experiments repeatedly produced **0/31 genuinely never-trained fourth source literal cue identifications** and high false matching of 71 truly absent episode probes. Pilot13 established genuine longitudinal *numeric memory interference* (same earliest 16 source event IDs fell 15/16→4/16 with 317 accumulated source memories). Pilot14 local numerical usage protection could retain 10/16 earliest source associations but acquired 0/16 newest. The original independent 50,920-slot nonneural associative linear map acquired **6/16 newest source memories and 46/159 familiar source positives** while fly-derived original β4 retained 0/16 newest and 36/159 familiar. The concurrently staged Pilot15 two-timescale source experiment doubles learned numeric synaptic state and is not yet sufficient evidence of semantic or reliable long-term memory.
+
+## Fresh evidence review and hypothesis boundaries
+
+The following are **literature-based design leads, not replications or successful measures for Pretorius**:
+
+- Pan, Hahami, Siegelmann & Sompolinsky (2026-08-27), [*A complementary learning system for continual episodic memory in large language models*](https://www.biorxiv.org/content/10.64898/2026.08.24.746712v1.full), a preprint evaluating sparse allocated episodic adapters, competitive semantic routing and replay on fictional-person autobiographical episodes. Its actual method has **per-episode memories and retrieval-augmented generation**. Our stricter Pilot16 neural input/output model explicitly does **not** quietly implement this retrieval.
+- Jun, Marupudi, Shah & Varma (2025), [*A Neural Network Model of Complementary Learning Systems*](https://arxiv.org/abs/2507.11393), pattern separation plus associative completion; reported Split-MNIST evidence is a different task.
+- Kapoor et al. (2025), [*HiCL: Hippocampal-Inspired Continual Learning*](https://arxiv.org/abs/2508.16651): sparse dentate-like coding, expert competition and replay reduce source interference in continual training. Pilot16 isolates representation density/orthogonal sparse coding and prediction-error correction; it is **not** a reproduction of HiCL.
+- Alonso & Krichmar (2024), [*A sparse quantized Hopfield network for online-continual memory*](https://www.nature.com/articles/s41467-024-46976-4), and dos Santos et al. (ICML 2024), [*Sparse and Structured Hopfield Networks*](https://proceedings.mlr.press/v235/santos24a.html), motivate explicit readout separability and content margins rather than anecdotal correct answers.
+- [FlyWire whole-brain Drosophila annotation, Nature (2024)](https://www.nature.com/articles/s41586-024-07686-5) supports real mushroom-body sparse expansion, but the current tested original seeded pre/post neuron populations are **not typed Kenyon-cell anatomy**. Sparse input projection is only a functional analogy.
+- Kim et al. (2025), [*Open-world continual learning: Unifying novelty detection and continual learning*](https://www.sciencedirect.com/science/article/pii/S0004370224001735), motivates a separate *model-internal* not-known cue gate; old external source codebook nearest-identity ranking cannot determine autobiographical truth.
+- Dorovatas et al. (2026), [*Modular Memory is the Key to Continual Learning Agents*](https://arxiv.org/abs/2603.01761), position paper argues for modular memory but supplies no directly transferable source-memory benchmark result.
+
+## Predeclared Pilot16 — three distinct causal questions
+
+[Owning experiment protocol](https://github.com/Azimn/Pretorius-Connectome/blob/experiment/pilot16-mnemosyne-pattern-separation/docs/FLYWIRE_PILOT16_MNEMOSYNE.md), [implementation branch](https://github.com/Azimn/Pretorius-Connectome/tree/experiment/pilot16-mnemosyne-pattern-separation).
+
+**Representation:** Keep ALL 256 dimensions of the frozen source-independent 384→256 **MiniLM semantic cue** projection (exact original published model/revision SHA), rather than repeating Pilot12's top-8 active-source-feature bottleneck. A separate fixed orthogonal top-64 code serves a functional sparse pattern separation ablation. The original canonical 450 fictional Pretorius v12 source autobiographical records, 27 episodes, original source-bound BC01 **CONTENT** vectors and 317 original same-seed trained records are held constant. No editing the source narratives or episode partition to improve test performance.
+
+**Learning:** Replace additive source cue→content Hebbian superposition with **online prediction-error corrective numeric associative updates**. A 256×256 learned W maps the cue-only dense semantic signal to the signed 256D original BC01 content target. Covariance-based RLS uses a learned 256×256 inverse input covariance P to suppress already-covered source directions and correct prediction error. For connectivity-masked learning this is **MASKED APPROXIMATE RLS, not exact constrained ridge regression**; an unmasked 65,536-W-parameter linear ridge control is included as stronger, exact nonneural comparator. All residual models carry an **additional 65,536 learned numeric P scalars** and this cost is disclosed. A dense delta learning arm, an old additive MiniLM top-8 arm and an original additive BC01 arm isolate the learning rule.
+
+**Actual source biological topology:** The genuine publisher original whole-FlyWire 139,255-neuron/15,091,983-directed-pair/54,492,922-contact v783 anatomical CSR is a **structural prior only** in Mnemosyne: use the fixed seeded feature-neuron mapping to collapse the original **50,920 eligible original biological directed source-to-readout neuron edges** to a binary 256×256 *feature-pair* trainable W mask. This loses individual synaptic counts, distinct neuronal anatomy, per-edge plasticity and computational motifs. It is **not directly simulating the original 15M-edge biological neural network**. Compare original feature-pair mask, actual binary-degree-preserved rewired-fly mask, **nonneural random feature-pair mask with same NUMBER of trainable feature pairs**, unmasked exact ridge, and *deliberately incorrect source cue→CONTENT target pairing*. Do not credit fly-specific wiring unless original-derived structure beats its appropriate original/re-wired/random/nonneural controls.
+
+## Evaluation with no source event-ID retrieval hidden inside inference
+
+Same seven source memory loads **0,16,32,64,128,256,317**, 3 original first/middle/last authored literal cues per memory, original 159 familiar positives, original 31 eligible **never-trained fourth source literal cues** (exploratory already examined in Pilots11–15), 62 distinct **validation** episode-absent and 71 truly **test** episode-absent. The original 317-event source CONTENT candidate codewords are fixed at ALL stages and used ONLY by an **EXTERNAL evaluator**, never model inference. Model accepts only cue string and returns a signed 256D content vector; it has no event ID/record/body text/candidate memory database and cannot generate an autobiography.
+
+Novel *model-native cue familiarity* uses input covariance only, **F(cue)=clip(1−cueᵀP cue,0,1)**. Predeclared acceptance is fit ONLY to the 62 source validation-absent examples allowing at most 6 false accepts; the 158 other train familiar examples provide descriptive correctly accepted sanity-check; original 159 familiar test, 31 old untrained fourth cues and 71 never-seen absent test episodes are excluded from all threshold/hyperparameter fitting. Report **joint correct AND accepted source positives**, source negative false accepts and readout content margin; a low false acceptance score with zero accepted correct source records is failure.
+
+Ten source arms, anchored old history and the full source-specific per-case JSON plus trained numeric W/P and original source SHA original checkpoint manifest, must pass synthetic numerical unit tests, then independently run full publisher original v783 source verification. Automatically archive complete raw original biological-source results and all ten trained states in Git history after a green *main-branch* source run. All results, including negative nulls, must be updated in this journal, PRJ-038, source scorecard and issue #17.
+
+## Interpretation
+
+This is a **more plausible path to positive semantic cue generalization** because it separately attacks representation bottleneck and weight-interference bottleneck, while comparing to stronger statistical baselines. It is still an untested hypothesis until original publisher-source real-v783 CI passes. No claim of actual fly cognitive physiology, independently authored unseen human paraphrase handling, autonomous narrative recollection, conscious Pretorius or original source-data semantics transferred to his fly-derived connectome is warranted. A future genuine original annotated Kenyon-cell architecture and independent blinded semantic cue panel would be a new pilot rather than retroactive tuning.
