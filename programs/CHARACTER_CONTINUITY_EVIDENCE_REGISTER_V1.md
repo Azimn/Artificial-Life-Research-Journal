@@ -8,7 +8,7 @@ updated: 2026-10-08
 
 # Character Continuity Evidence Register v1
 
-The [machine-readable source pin manifest](CHARACTER_CONTINUITY_SOURCE_PINS_V1.json) records exact repository commit SHAs and Git blob SHAs for all ten evidence-register entries. Its immutable report URLs prevent later README or result edits from silently changing the evidence basis of this initial synthesis. The manifest authenticates source-file identity, not independent experiment validity.
+The [machine-readable source pin manifest](CHARACTER_CONTINUITY_SOURCE_PINS_V1.json) records exact repository commit SHAs and Git blob SHAs for the initial ten evidence-register entries and any explicitly pinned later additions. Its immutable report URLs prevent later README or result edits from silently changing the evidence basis of this initial synthesis. The manifest authenticates source-file identity, not independent experiment validity.
 
 ## Reading rule
 
@@ -26,6 +26,7 @@ These are repository-reported exploratory findings inspected on 2026-10-08, not 
 | CC-E08 | [FlyWire MB trace plasticity](https://github.com/Azimn/Pretorius-Connectome/blob/main/results/associative/FLYWIRE_MB_PLASTICITY_PILOT01_RESULTS.md): trained original 7/67, frozen original 7/67 accepted-correct; learned rewired 3/67 | No isolated benefit from added learning in the tested mushroom-body topology | Post-hoc correlated challenges, lexical feature mapping, rewiring null not fully cell/weight matched | Do not claim a plasticity advantage; topology difference must be separated from learning effect |
 | CC-E09 | [Attractomancy current status](https://github.com/Azimn/Attractomancy/blob/main/docs/COLLECTION_READINESS_2026-10-08.md): 444 catalog entries and 24 indexed procedures | A substantial provenance-oriented collection and intervention index exists | Neither 444 independent validated sources nor completed causal conditioning tests; capture gaps remain | Finish high-value source capture and freeze one matched intervention |
 | CC-E10 | [The Doctor Lives](https://github.com/Azimn/The-Doctor-Lives/blob/main/README.md): v0.4 state-to-policy bridge and opt-in v0.5 neural convergence documented | A production subject architecture integrates recurrent policy and persistent state under explicit migration gates | Functional integration is not blinded proof of autobiographical generalization; release validation is separate | Keep production moving, make causal components auditable and opt in only |
+| CC-E11 | [SelfBindingModulator cloned-state Stage 01](https://github.com/Azimn/The-Doctor-Lives/blob/5629f1cba0000047321fffbbfc6367df23a173c2/results/self_binding/STAGE_01_EXECUTED_MEASUREMENTS.md): 20 matched arms, 0/16 action changes; 2/16 selected-memory ID-sequence changes, both SHUFFLED; 1/16 thought-text change | Exact frozen state and recurrent checkpoint controls demonstrated a small influence on action-score arithmetic but no changed action decisions under LOW/NORMAL/HIGH; a mismatched source-association control could change attention | Three author-visible lexical queries and simulated contradiction, no independent semantic labels, no natural-language renderer or world consequences; never infer identity continuity | HOLD self-binding promotion; independently author sealed decision/outcome probes rather than tuning gain on these inspected cases |
 
 ## Cross-project synthesis
 
