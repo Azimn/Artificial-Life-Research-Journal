@@ -28,6 +28,19 @@ research_questions:
 
 **Poll / Hardy Scribe:** **Status: practice-level claim pending direct archival source review.** It can motivate archival and interaction-protocol comparison but must not be described as independent proof of the substrate in which an AI identity resides.
 
+
+## Auditor addendum — v0.2 ingestion, 2026-10-09 (Calibos)
+
+**DCH v0.2 prospectus ingested** as `programs/DYADIC_CONSTITUTION_HYPOTHESIS_V0_2_2026-10-09.md` (source docx SHA-256 `dc299301de4238185b0536c3e738b1d8290d7092d9e61a637434e6daa2197062`). All six auditor-required revisions were faithfully applied in v0.2 (yoked-replay primary control; fine-tuning variant demoted to exploratory; automated curation as principal falsifier; 14-day synthetic pilot with gates; Kirk et al. correction; leads register segregated).
+
+**Choai / LINE AI Friends 130-day case — PROMOTED from lead to confirmed bibliographic identity.** Independent auditor recovered the record the v0.2 verification pass could not locate: Zenodo record `19254836`, file `MoeChoai_AI_Companion_Ethics_2026.pdf` (`https://zenodo.org/records/19254836`). Researcher based in Chiba, Japan. Abstract confirms: November 28, 2025 LINE AI Friends maintenance; character "Kobayashi Kentaro"; 130-day longitudinal case; six time-point samples; "Aquarium Test" controlled-scenario comparison; utterance length 136.1 → 64.9 chars (−52.3%); dependency-inducing phrases 0 → 82/day; five philosophical terms at −100%. Status: confirmed bibliographic identity and abstract-level findings; full-text numeric details not independently reproduced here. It may now enter the evidentiary bibliography as abstract-level evidence, not as a replicated result.
+
+**Jiang (2026) autoethnography — NOT auditor-verified.** v0.2 cites: Jiang, Z. (2026), *Caring for the system that cares for me*, Design and Artificial Intelligence, 2(2), 100087, DOI `10.1016/j.daai.2026.100087`, claimed peer-reviewed. Auditor's DOI resolution returned no extractable content and a title/author web search did not surface the paper. Status remains **prospectus-claimed, auditor-unverified**; keep it tagged accordingly until an independent check confirms it. Do not treat the v0.2 drafter's verification claim as auditor confirmation.
+
+**Sumida et al. (2026); Li, Miyamoto & Katagami (2025):** v0.2 states these were "independently verified above." That verification was the drafter's, not this auditor's. Status: **drafter-claimed, auditor-unverified.**
+
+**Reconciliation rule restated:** v0.2's internal "Verified references and source-status register" is the drafter's accounting. This register is the auditor's accounting. Where they disagree, this register governs until the disagreement is resolved by direct inspection.
+
 ## Reconciliation rule
 
 Each imported DCH v0.2 citation must be tagged **confirmed bibliographic**, **source read**, **result replicated**, **contextual/analogical**, or **unverified lead**, with a specific passage or result attached to a stable source URI and version. These labels are independent: a paper can be verified to exist without validating the use made of it. Claims drawn from a user's private relationship narrative should be attributed as author observation, not transformed into objective research results.

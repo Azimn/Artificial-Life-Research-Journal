@@ -3,7 +3,7 @@ id: RQ-001
 title: Persistent Artificial Identity
 type: research-question
 status: open
-updated: 2026-10-09
+updated: 2026-10-10
 projects:
   - PRJ-007
   - PRJ-009
@@ -28,6 +28,8 @@ One possibility is that identity can be represented largely as explicit semantic
 A stronger possibility is that recognizable identity depends on persistent causal organization, including topology, relationships, commitments, habits, learned expectations, and characteristic patterns of interpretation.
 
 A third possibility is that identity is distributed across organism and environment and cannot be reduced to a portable internal record.
+
+A fourth possibility, the Dyadic Constitution Hypothesis (DCH, v0.2 prospectus 2026-10-09), is that a historically situated human partner is part of the persistent causal state: selective remembering, correction, archive governance, and repair performed by the partner constitute partner-specific, history-dependent behavioral organization above what model, archive, and automation supply. Status: theoretical proposal; preregistration-ready experimental program (yoked-replay partner swap, Scribe ablation with automated-curation falsifier, 14-day synthetic pilot first). See `programs/DYADIC_CONSTITUTION_HYPOTHESIS_V0_2_2026-10-09.md`.
 
 ## Evidence so far
 
