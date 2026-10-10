@@ -46,7 +46,7 @@ An illustrative reusable candidate envelope (conceptual schema, not yet shipped)
 }
 ```
 
-The source source's `provenance: reconstructed` may be mapped to a downstream `origin_class` only by an **explicit reviewed translation table**. `visibility` is an output of an authorization check, not an imported truth about the consumer. A source hash proves local data consistency against a trusted pin, not that content authored by an untrusted sender is factually authentic.
+The source record's `provenance: reconstructed` may be mapped to a downstream `origin_class` only by an **explicit reviewed translation table**. `visibility` is an output of an authorization check, not an imported truth about the consumer. A source hash proves local data consistency against a trusted pin, not that content authored by an untrusted sender is factually authentic.
 
 ## Per-project integration candidates
 
