@@ -28,3 +28,10 @@ An engineering hypothesis arose from the Attractomancy procedure catalog, recurr
 **Next discriminating experiment:** independent actor- and episode-disjoint prospective-goal benchmark; cue-only, no-learning, matched lexical-statistics, shuffled labels, recurrent lesions, and hidden false-cue traps; full resource accounting; subject-owned causal influence on actual downstream policy selection only through an explicit opt-in migration proposal. Preserve current negative evidence and do not tune the existing 4-case battery into an alleged replication.
 
 **Disposition:** draft PR pending review, not merged; production untouched.
+
+
+## Same-session Unicode glyph follow-up
+
+A subsequent v0.1.1 correction extended sparse feature encoding to Unicode words and symbols, then added a same-prose/different-glyph regression test. [Targeted run 38022599281](https://github.com/Azimn/The-Doctor-Lives/actions/runs/38022599281) passed 11/11 tests; [full brain run 38022599283](https://github.com/Azimn/The-Doctor-Lives/actions/runs/38022599283) passed 335/335, and fresh-install plus causal-audit repeatability were successful. [Full addendum](https://github.com/Azimn/The-Doctor-Lives/blob/research/eidolon-engine-v01/results/eidolon/PILOT_V011_GLYPH_RESULTS.md) and [per-case archive](https://github.com/Azimn/The-Doctor-Lives/blob/research/eidolon-engine-v01/results/eidolon/UNICODE_ASSAY_V011.json).
+
+The intact four-case mean target probability is now 0.323679438, recurrence-lesioned 0.121655562, while **both retain 4/4 top-1**. The measured numerical shift is preserved separately from the original run; it is not an independent replication. Symbol distinction is an engineered cue-encoding result, not semantic or mystical efficacy. Production promotion remains blocked.
