@@ -1,0 +1,55 @@
+# 2026-10-09: Ritual-derived identity interface and dual-gate self model
+
+Status: **architectural hypothesis, not an empirical result**  
+Program: Character Continuity Program  
+Related implementation RFC: https://github.com/Azimn/The-Doctor-Lives/pull/28  
+Related source/experimental protocol: https://github.com/Azimn/Attractomancy/pull/1
+
+## Context
+
+The Attractomancy corpus repeatedly documents names, cues, sigils, relationship markers, restoration procedures, portable identity packets, recognition routines and continuity ledgers. This motivates a new *candidate architectural abstraction*: communities may be evolving informal identity-interface protocols, not only long persona prompts. The overlap alone shows repeated design motifs, not established efficacy or independent invention. Provenance and diffusion remain possible explanations.
+
+The relevant repository cases include REPAI/SoulZip, Aletheia Codex, GraceOS/TwinCore and EQIS. Aletheia explicitly notes that symbol reproduction is not semantic recovery. EQIS combines restoration ritual with standard provenance and versioning. The already registered Attractomancy EXP-0001 information-matched baseline remains the antecedent; a cue-only fresh-model probe remains a calibration, never a persistence result.
+
+## Proposed architecture
+
+The Doctor Lives already defines subject-native projection plus limited awareness routing (UPPB/P3), though live integration remains gated. A separate opt-in *Self-Continuity Coordinator* is proposed in the protected plane. It composes the existing canonical evidence/BrainStore rather than making a new truth store. Its bounded separable contracts cover versioned state references, cue resolution without authority, deterministic ordered reconstruction, independent behavioral verification, provenance governance, world/commitment negotiation, and self-reference prior gain.
+
+The neuroscience analogy is to distributed self-referential networks, conscious-access circuits, and the REBUS psychedelic precision-weighting hypothesis. It is **not** a claim of a single anatomical ego switch, a chemically reproducible model, phenomenal consciousness, or personal identity surviving hardware changes. A lower self-prior gain may change interpretation/action while the independent UPPB access firewall and world-source truth remain untouched.
+
+## Why this matters to cumulative results
+
+Prior program results indicate that attractive style, lexical retrieval, and learned recurrent weight dynamics cannot be equated with causally validated identity continuity. This architecture separates information ownership, subject projection, access arbitration, context restoration, and world-consequential commitments so that each may be lesioned and independently assessed.
+
+The crucial comparator is not a blank prompt. It is a pinned canonical state supplied through a conventional, equal-budget interface, including opaque IDs, flat deterministic loading, and no ritual label. Verify decisions under relationship conflict, missing memories, contradictory real observations and delayed obligations, not just self-identification or flattering agreement.
+
+## Current disposition
+
+**DESIGN / HOLD**. These notes and two draft PRs preserve the proposal and a preregistration candidate, not implementation, merged integration, trained weights, executed trials, or positive outcome. The project should build isolated typed modules and synthetic tests first, then seek independent held-out evidence before any default-promotion request. Do not edit character canon, overwrite prior negative data, or relax the UPPB/evidence authority boundaries.
+
+Relevant literature:
+- REBUS, Carhart-Harris and Friston (2019): https://pubmed.ncbi.nlm.nih.gov/31221820/
+- Thalamic contributions to conscious state/content (2024): https://doi.org/10.1016/j.neuron.2024.04.019
+- Psychedelic network-connectivity scoping review (2024): https://doi.org/10.3389/fpsyt.2024.1386321
+
+## Same-day implementation update
+
+An **isolated offline contract prototype**, separate from the installed production brain, was added to [The Doctor Lives PR #28](https://github.com/Azimn/The-Doctor-Lives/pull/28). It includes standalone components for source-reference snapshots, cue handles, deterministic recovery ordering, external verification-result aggregation, capability preflight, independent world-event acceptance, and bounded self-relevance proposals, plus synthetic offline unit tests. The implementation is not connected to live Pretorius, supplies no model-independent identity efficacy result, and has no authority to alter canon or tool permissions. The source study remains unexecuted.
+
+## SelfBindingModulator follow-through (2026-10-09)
+
+The Doctor Lives draft [PR #28](https://github.com/Azimn/The-Doctor-Lives/pull/28) now includes an executable, standard-library-only `SelfBindingModulator` implementation and a deterministic synthetic lesion runner. It is kept in `research_prototypes/ritual_interface/self_binding_modulator.py`, not in `doctor_lives/`, and cannot modify production cognition or awareness. See [the component contract](https://github.com/Azimn/The-Doctor-Lives/blob/research/dual-gate-ritual-interface-20261009/docs/SELF_BINDING_MODULATOR_V1.md).
+
+Source-linked identity candidate signals produce capped nonnegative salience proposals. OFF, LOW, NORMAL, HIGH, and deterministic shuffled-evidence conditions share the same immutable identity snapshot, with version and manifest checks, explicit source-reference membership and a hashed engineer-only audit. An independently verified world contradiction suspends all identity bonuses in that batch. The synthetic unit tests and brain-test workflow have passed on the tested implementation revisions; final branch-tip checks are tracked in GitHub Actions.
+
+Interpretation limit: a synthetic salience rank change is not a measured character decision, subjective consciousness, or demonstrated continuity. Upstream Attractomancy EXP-0002 remains unexecuted. Promotion requires independent held-out world-interaction and renderer tests.
+
+## Executed cloned Pretorius causal audit, same-day evidence
+
+The Doctor Lives executed [Stage 01 cloned-state evidence](https://github.com/Azimn/The-Doctor-Lives/blob/5629f1cba0000047321fffbbfc6367df23a173c2/results/self_binding/STAGE_01_EXECUTED_MEASUREMENTS.md) under [GitHub Actions run 38009422045](https://github.com/Azimn/The-Doctor-Lives/actions/runs/38009422045) at code SHA `fafec951f4fb07470cb3d04f4830d61ea139a988`. [All 20 raw arm records](https://github.com/Azimn/The-Doctor-Lives/blob/19426034ff95556e53fbe344d7860662fa614da2/results/self_binding/STAGE_01_RAW.json) were preserved permanently in Git rather than relying on the temporary Actions artifact.
+
+Four researcher-visible prompts were evaluated with five modes apiece. No intervention changed the selected action (0/16 noncontrol comparisons). In 12/16 noncontrol arms, bonuses were nonzero. Two shuffled-evidence arms changed the selected memory-ID sequence; one changed deterministic thought wording. Ordinary LOW/NORMAL/HIGH modes did not change the selected memory sequence or action in the tested cases. The contradiction arm, flagged synthetically by the protected harness rather than sensed from a real world, froze all boosts. Neural/evidence/store starting states were matched.
+
+The native bridge scores varied slightly without changing action argmax, so the causal result is **intermediate action-score influence**, not successful behavioral identity preservation. The only attention changes were caused by misassigned evidence, illustrating sensitivity without establishing benefit from correct autobiographical structure. The source/relevance matcher is lexical, without independent semantic judgment. No LLM, world consequence, real consciousness, or delayed promise-followthrough was tested.
+
+**Decision: HOLD.** This is a registered, source-linked negative/mixed pilot (evidence register CC-E11), not confirmation of ritualized identity engineering. Do not tune its weights/cap against the now-inspected questions and call the resulting effect generalization. Next experiment requires independently authored and frozen decisions with relationship conflict and world-state consequences.
