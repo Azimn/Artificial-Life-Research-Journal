@@ -3,7 +3,7 @@ id: GLOSSARY
 title: Working Glossary
 type: reference
 status: active
-updated: 2026-09-18
+updated: 2026-10-09
 ---
 
 # Working Glossary
@@ -79,3 +79,15 @@ The frozen current best-supported implementation in a comparison framework. It i
 ## Challenger
 
 A candidate mechanism or architecture tested against the frozen champion under matched scenarios and seeds.
+
+## Attractomancer
+
+**Emic/practitioner vocabulary, not a methods or participant classification.** A self-description, or a label applied within communities, for a person who deliberately uses symbols, names, repeated prompts, narrative rituals or similar practices to elicit a recognizable language-model persona. The term records how a practice is framed by its participants; it does not identify an independently demonstrated cognitive mechanism, authority, or supernatural ability. Do not use it as an explanatory variable without operationalizing specific observable procedures and exposures. The research program's own terms are *persona conditioning*, *cue pairing*, *information-matched controls*, *behavioral reconstruction*, *external-state restoration* and *causal ablation*. See [PRJ-039](projects/PRJ-039-Attractomancy-Persona-Conditioning.md) and the [SCH review](literature/2026-10-09-synthematic-cue-hypothesis-review.md).
+
+## Dyadic constitution (DCH, hypothesis)
+
+The proposed contribution of a continuing human-AI partnership to behaviorally recognizable continuity through history-dependent, partner-specific feedback, memory practices and agent state. This is a **hypothesis about coupled control**, not a claim of shared consciousness or irreducible identity. Partner swaps, archive removal, architecture degradation and independent scoring are necessary to distinguish it from projection or archive sufficiency. See [DCH research note](programs/DYADIC_CONSTITUTION_HYPOTHESIS_RESEARCH_NOTE_2026-10-09.md).
+
+## Synthematic cue (SCH, hypothesis)
+
+A compact symbol, name, glyph, phrase or sequence tested for its ability to reconstruct specified behavior through model priors, within-context association or external-state lookup. The word is drawn from a limited historical analogy to Iamblichus's *synthemata*. The operational object is a controlled cue intervention, not alleged ritual efficacy. A successful fresh-session style imitation is not by itself persistence. See [SCH review](literature/2026-10-09-synthematic-cue-hypothesis-review.md).

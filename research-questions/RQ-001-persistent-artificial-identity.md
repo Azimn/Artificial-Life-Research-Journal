@@ -3,7 +3,7 @@ id: RQ-001
 title: Persistent Artificial Identity
 type: research-question
 status: open
-updated: 2026-10-08
+updated: 2026-10-09
 projects:
   - PRJ-007
   - PRJ-009
@@ -54,3 +54,11 @@ Cross-renderer continuity, state transfer between architectures, destructive ide
 The [cross-project character continuity program](../programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) now treats external-loop sufficiency, recurrent-learning contribution, hybrid interaction, and cue-representation limits as competing empirical explanations. The [evidence register](../programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) documents decoder-localized default phenotype, a bounded recurrent-only counterexample, lexical-to-semantic retrieval failure, and limitations of the first external verifier. These findings do not establish where all identity must reside.
 
 The [proposed matched study](../programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md) will use paired causal lesion and state-removal interventions with independently reviewed source-grounded and behavioral probes. Do not count this proposed experiment as completed evidence.
+
+## Relational and cue-based hypotheses entered October 9
+
+The [DCH working research note](../programs/DYADIC_CONSTITUTION_HYPOTHESIS_RESEARCH_NOTE_2026-10-09.md) adds the partner/dyad as a **candidate locus of continuity work**: learned interaction practices and corrective history may causally support recognizable behavior. Its prospectus v0.2 is not yet ingested and its partner-swap, architecture-degradation and Scribe/archive-ablation controls remain proposed. A static archive, the partner's projection, and generic model priors are explicit rival explanations. The [citation status register](../audits/DCH_SOURCE_VERIFICATION_2026-10-09.md) records independently confirmed sources and unresolved references.
+
+The [Synthematic Cue Hypothesis review](../literature/2026-10-09-synthematic-cue-hypothesis-review.md) adds the separate *cue mechanism* question: whether familiar priors, temporary in-context cue pairings, or correctly retrieved external state account for apparent symbolic recognition and persona reconstruction. The published-in-repository SCH pilots contain **negative or indeterminate generic register and conditional-rule findings** alongside narrow positive local label association. Neither constitutes verified cross-session persona continuity. These mechanisms can be crossed with partner identity in a future registered design, without relabeling cue-only calibration as persistence.
+
+See [October 9 journal decision](../journal/2026/2026-10-09-dyadic-and-synthematic-continuity.md).

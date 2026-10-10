@@ -3,7 +3,7 @@ id: PROGRAMS
 title: Research Programs
 type: index
 status: active
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Research Programs
@@ -79,3 +79,7 @@ Core question: can an artificial organism change its own mechanisms while fixed 
 Representative work: Bicentennial Man, Surface-Mutable Control, Mechanism-Mutable DUCK, rollback and phylogeny concepts.
 
 Primary question: [RQ-007](research-questions/RQ-007-bounded-self-modification.md).
+
+## Dyadic and synthematic continuity extensions (October 9)
+
+The core [Character Continuity Program](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) now cross-indexes a proposed **partner-specific dyadic mechanism** and a separately testable **three-timescale symbolic-cue mechanism**. The [DCH note](programs/DYADIC_CONSTITUTION_HYPOTHESIS_RESEARCH_NOTE_2026-10-09.md) is provisional while manuscript v0.2 is missing. The [SCH source review](literature/2026-10-09-synthematic-cue-hypothesis-review.md) cites actual October 9 pilot results but does not assert persona persistence. Both concern RQ-001; style and believability also bear on RQ-006. The source-invariance and information-matching requirements of the four-arm protocol still govern any later combined experiment.
