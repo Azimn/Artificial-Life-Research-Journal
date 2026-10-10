@@ -34,6 +34,12 @@ SQLite transactionally records laboratory changes with unique event IDs, object 
 
 A separate offline JSON branch preserves provisional local actions. Reconciliation revalidates actual latest object revisions and action physics, preserving explicit conflicts without last-write-wins. Same event ID can be retried after a lost acknowledgement without duplicating an accepted laboratory mutation. An epoch or version mismatch is quarantined. Overlapping operations against the same object within one offline queue are deliberately unsupported until causal dependency management exists.
 
+## Grounded perception interface (same-day follow-up)
+
+The separate [Pretorius Laboratory PR #2](https://github.com/Azimn/Pretorius-Laboratory/pull/2) was also squash-merged at [405e380](https://github.com/Azimn/Pretorius-Laboratory/commit/405e3802701cc2eb688b4f3d6731e741d46c6cd4). It adds a deterministic research-side observation port, callable from Python or the CLI, that verifies the host ledger before exposing scene objects, event cursor, world epoch, and host-eligible action candidates. Closed containers occlude their contents; private notebook contents are excluded from the view. The new observation tests, including corruption refusal and restart-stable views, passed in [Actions run 38051070419](https://github.com/Azimn/Pretorius-Laboratory/actions/runs/38051070419).
+
+An observation response is **not** proof that Pretorius, or any cognitive model, was running or experienced the observation. It is an external environment interface awaiting an explicitly developed, provenance-preserving adapter for the subject.
+
 ## Verification and limitations
 
 [GitHub Actions run 38050736698](https://github.com/Azimn/Pretorius-Laboratory/actions/runs/38050736698) completed successfully, including Python compilation, the unittest battery and CLI init, reopen/verify, checkpoint, backup and restore exercise. The battery covers history replay, container rules, bad action rejection, duplicate event protection, tamper detection, non-conflicting offline replay, same-object conflict, epoch isolation, lost acknowledgement and concurrent optimistic writes. This is **software engineering acceptance of the local host**, not evidence of improved character cognition, a long-duration life experiment, real two-host synchronization or independent operational recovery.
