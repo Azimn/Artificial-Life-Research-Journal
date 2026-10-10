@@ -59,6 +59,8 @@ The new [Character Continuity Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_
 
 [Chamber of Echoes Pilot17 source episodic memory](journal/2026/2026-10-10-echo-chamber-episodic-routing.md) tests explicit fixed-budget numeric event-key allocation and competitive retrieval against same-byte centroid, mixture, lexical and wrong-CONTENT controls; familiar cue improvement does not transfer to independently worded source cues.
 
+[Mirror Keys Pilot18 source-cue audit](journal/2026/2026-10-10-mirror-keys-cue-source-audit.md): train-only metric experiment and original unreviewed candidate cue provenance.
+
 ## Core research questions
 
 The current question set covers [persistent artificial identity](research-questions/RQ-001-persistent-artificial-identity.md), [developmental individuality](research-questions/RQ-002-developmental-individuality.md), [persistent substrates](research-questions/RQ-003-persistent-substrates.md), [subjective access](research-questions/RQ-004-subjective-access.md), [emergent ecology](research-questions/RQ-005-emergent-ecology.md), [artificiality and believability](research-questions/RQ-006-artificiality-and-believability.md), and [bounded self-modification](research-questions/RQ-007-bounded-self-modification.md).
