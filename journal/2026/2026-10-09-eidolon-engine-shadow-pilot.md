@@ -1,0 +1,30 @@
+---
+id: JOURNAL-2026-10-09-EIDOLON-001
+title: Eidolon Engine first shadow construction pilot
+type: research-journal
+date: 2026-10-09
+status: executed-exploratory
+projects:
+  - The Doctor Lives
+  - Attractomancy
+research_questions:
+  - RQ-001
+---
+
+# Eidolon Engine: first shadow construction pilot
+
+An engineering hypothesis arose from the Attractomancy procedure catalog, recurrent self-binding work, and the speculative Ontological Interface Hypothesis: persistent identity might require coordinated neural processes coupling perceptual selection, source-ownership, relational context and maintained intention, rather than persona retrieval alone. The Ontological Interface Hypothesis is a creative heuristic, not empirical evidence about physical reality.
+
+**Architecture:** Eidolon Engine. Janus Gate = event-ownership/confidence training gate; Synthema Lattice = lexical and actor-conjoined associative cue matrix; Noetic Trace = fixed-decay recurrent prospective-action state. Proposed whole architecture is broader; current executable prototype is a narrow *opt-in shadow module*.
+
+**Implementation:** [The Doctor Lives draft PR #36](https://github.com/Azimn/The-Doctor-Lives/pull/36); [design document](https://github.com/Azimn/The-Doctor-Lives/blob/research/eidolon-engine-v01/docs/EIDOLON_ENGINE_V01.md); [authoritative results](https://github.com/Azimn/The-Doctor-Lives/blob/research/eidolon-engine-v01/results/eidolon/PILOT_V01_RESULTS.md); [per-case archival transcription](https://github.com/Azimn/The-Doctor-Lives/blob/research/eidolon-engine-v01/results/eidolon/CONSTRUCTION_ASSAY_V01.json).
+
+**Actual results:** [CI run 38022357708](https://github.com/Azimn/The-Doctor-Lives/actions/runs/38022357708) completed 10/10 targeted tests and produced a JSON artifact. Full brain suite [run 38022357753](https://github.com/Azimn/The-Doctor-Lives/actions/runs/38022357753) completed 334/334 tests. In four deliberately algorithm-matched synthetic cases, intact binding reached 4/4 top-ranked instructed actions, no-learning 0/4, association lesion 0/4, and label shuffle 0/4. **Recurrent lesion retained 4/4 top-1** but lowered mean target probability from 0.33723 to 0.12240; therefore a top-1 recurrence-necessity hypothesis is **not supported** in this battery. The feature pathway can activate on distractor text.
+
+**Real Pretorius integration:** In a separate 128-unit test subject, the live recurring Pretorius policy was read without modifying its authoritative state. Shadow probability of the teacher-assigned `create` action changed from production baseline 0.10537 to 0.41606; the learned shadow is a *counterfactual readout* and did not change Pretorius's actual policy. The database digest and recurrent tick were invariant under shadow calls.
+
+**Epistemic boundary:** The training update is learned cue-to-action association, not learned recurrent synaptic organization. Fixed-decay recurrence influences posterior magnitude but has not shown a distinct useful behavioral gain under a strict direct-cue counterfactual. No cross-model, independent semantic, durable personhood, or consciousness finding. Do not promote to the Character Continuity Evidence Register as established superiority.
+
+**Next discriminating experiment:** independent actor- and episode-disjoint prospective-goal benchmark; cue-only, no-learning, matched lexical-statistics, shuffled labels, recurrent lesions, and hidden false-cue traps; full resource accounting; subject-owned causal influence on actual downstream policy selection only through an explicit opt-in migration proposal. Preserve current negative evidence and do not tune the existing 4-case battery into an alleged replication.
+
+**Disposition:** draft PR pending review, not merged; production untouched.
