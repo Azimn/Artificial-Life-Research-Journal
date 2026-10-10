@@ -3,7 +3,7 @@ id: HOME
 title: Artificial Life Research Journal
 type: index
 status: active
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Artificial Life Research Journal
@@ -17,6 +17,8 @@ The code for an experiment may live in another repository. The scientific record
 ## Current cross-project program
 
 The [Character Continuity Research Program v1](programs/CHARACTER_CONTINUITY_PROGRAM_V1.md) unifies the experimental interpretation of neural substrate learning, BioCircuit, FlyWire retrieval/imprinting, Attractomancy conditioning, and the definitive The Doctor Lives character. Start with the [cross-project evidence register](programs/CHARACTER_CONTINUITY_EVIDENCE_REGISTER_V1.md) and [four-arm comparison protocol](programs/CHARACTER_CONTINUITY_COMPARISON_PROTOCOL_V1.md). Source implementations and raw case-level evidence remain authoritative in their own repositories. The comparison protocol is a preregistration draft, not an executed study.
+
+The [October 9 dyadic and synthematic integration](journal/2026/2026-10-09-dyadic-and-synthematic-continuity.md) adds DCH partner-specific continuity as a **proposed** mechanism and reviews the SCH v0.2.1 three-timescale cue hypothesis with real exploratory, mixed Attractomancy pilot outcomes. DCH v0.2 is not yet ingested; see its [source-verification register](audits/DCH_SOURCE_VERIFICATION_2026-10-09.md). The [glossary](GLOSSARY.md) distinguishes "Attractomancer" practitioner vocabulary from methods terminology.
 
 ## Portfolio and provenance audit
 
