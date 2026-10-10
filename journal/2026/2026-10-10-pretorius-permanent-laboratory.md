@@ -40,6 +40,14 @@ The separate [Pretorius Laboratory PR #2](https://github.com/Azimn/Pretorius-Lab
 
 An observation response is **not** proof that Pretorius, or any cognitive model, was running or experienced the observation. It is an external environment interface awaiting an explicitly developed, provenance-preserving adapter for the subject.
 
+## MMO comparative architecture follow-up (2026-10-10)
+
+A separate [source-grounded comparative study](https://github.com/Azimn/Pretorius-Laboratory/blob/main/docs/MMO_PERSISTENT_HABITAT_STUDY_2026-10-10.md) was merged in Pretorius-Laboratory [PR #3](https://github.com/Azimn/Pretorius-Laboratory/pull/3) at `a08a4b4`. It compares official World of Warcraft housing and sharding descriptions, the community Ryzom Core EGS/AIS/backup/mirror architecture, TrinityCore's stable spawn/instance persistence, and Evennia's database objects and time-based Scripts. It explicitly distinguishes public Blizzard product descriptions from inaccessible proprietary internals, and TrinityCore from actual Blizzard software.
+
+**Architectural decision, not efficacy result:** preserve a permanent personalized residential **Sanctum** distinct from cloneable/resettable **Experimental Chambers**. Use source-attested laboratory history and typed semantic IDs as the interoperability boundary; allow independently implemented Evennia object views without shared storage. Explore idle/hibernation and bounded deterministic experiment catch-up rather than a permanent model/tick loop. The habitat's continued existence does not imply continued subject cognition.
+
+**Important negative systems lesson:** current Ryzom Core documentation says its historical PDS delta-logging system became disconnected although snapshot-style character/guild saving continued through PDR/Backup Service. This reinforces our requirement to test historical event integrity separately from durable current state, particularly for claims about lived experiences. No new runtime scheduler, sanctuary partitions, Village bridge, cognition adapter or behavioral advantage was implemented by the research-only PR.
+
 ## Verification and limitations
 
 [GitHub Actions run 38050736698](https://github.com/Azimn/Pretorius-Laboratory/actions/runs/38050736698) completed successfully, including Python compilation, the unittest battery and CLI init, reopen/verify, checkpoint, backup and restore exercise. The battery covers history replay, container rules, bad action rejection, duplicate event protection, tamper detection, non-conflicting offline replay, same-object conflict, epoch isolation, lost acknowledgement and concurrent optimistic writes. This is **software engineering acceptance of the local host**, not evidence of improved character cognition, a long-duration life experiment, real two-host synchronization or independent operational recovery.
