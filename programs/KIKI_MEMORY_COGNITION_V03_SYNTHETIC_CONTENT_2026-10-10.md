@@ -1,7 +1,8 @@
 # Kiki Memory-Cognition v0.3: source-authorized synthetic content pilot
 
 **Date:** 2026-10-10, America/Chicago  
-**Kiki project:** [PR #9](https://github.com/Azimn/Kiki-Mind/pull/9), [Issue #8](https://github.com/Azimn/Kiki-Mind/issues/8) (independent semantic gate remains open).  
+**Kiki project:** [PR #9](https://github.com/Azimn/Kiki-Mind/pull/9), [Issue #8](https://github.com/Azimn/Kiki-Mind/issues/8) (independent semantic gate remains open).
+**Merged to Kiki Mind main:** `42cd723dc5968e1b44ef750b516655904b7e5a45`; final reviewed PR head `3515d860fb7692ef6bb897e24d215682082b85fb`, [green last-head content pilot run 38058384489](https://github.com/Azimn/Kiki-Mind/actions/runs/38058384489), and [green original regression run 38058384421](https://github.com/Azimn/Kiki-Mind/actions/runs/38058384421).  
 **First complete execution:** [GitHub Actions 38058221101](https://github.com/Azimn/Kiki-Mind/actions/runs/38058221101), all steps green; raw 180-case artifact [11672540015](https://github.com/Azimn/Kiki-Mind/actions/runs/38058221101/artifacts/11672540015).  
 **Fixture SHA-256:** `85a6f86d237fca4d9d201748a7aeb4e484552c9951fea9e33be480e80d693e06`.  
 **Shared interface exact pin:** `cc82c72167d87c19f16125ccdf9477b53c777878`.
