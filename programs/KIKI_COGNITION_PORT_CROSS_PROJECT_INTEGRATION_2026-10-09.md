@@ -3,7 +3,7 @@
 **Research date:** 2026-10-09, America/Chicago  
 **Kiki code:** [Kiki-Mind PR #5](https://github.com/Azimn/Kiki-Mind/pull/5)  
 **Common interface:** [Pretorius-Connectome, merged PR #31](https://github.com/Azimn/Pretorius-Connectome/pull/31), pinned commit `cc82c72167d87c19f16125ccdf9477b53c777878`  
-**Research status:** implementation and integration tests authored; final PR-head CI and merge status must be checked against the exact head before claiming release.
+**Research status:** merged and verified on both the existing Kiki tests and cross-repository integration suite. **Kiki main merge commit:** `5f4940d1003e4746bbd16a8951455732a7ba5f2e`. Original shared-interface pin remains `cc82c72167d87c19f16125ccdf9477b53c777878`.
 
 ## Question
 
@@ -21,7 +21,7 @@ The [cross-project test suite](https://github.com/Azimn/Kiki-Mind/blob/feature/c
 
 ## Initial failure and correction
 
-The first CI job executed all eight new integration tests and passed seven. One failed because the test incorrectly expected an empty Python list for no matches, while `MemoryCognitionPort.search` correctly returns an immutable empty tuple. This was a **test expectation error**, not incorrect record retrieval. The test was corrected in commit `bcf88ac0303d30571b17184956801a392ed111cb`; that exact final commit must pass both workflows before merge. Retain this failed run as audit evidence rather than hiding the correction.
+The first CI job executed all eight new integration tests and passed seven. One failed because the test incorrectly expected an empty Python list for no matches, while `MemoryCognitionPort.search` correctly returns an immutable empty tuple. This was a **test expectation error**, not incorrect record retrieval. The test was corrected in commit `bcf88ac0303d30571b17184956801a392ed111cb`. Both final-head CI workflows passed: [cross-project interoperability run 38025840323](https://github.com/Azimn/Kiki-Mind/actions/runs/38025840323), [full Kiki regression run 38025840269](https://github.com/Azimn/Kiki-Mind/actions/runs/38025840269). A second pair on the same exact head also passed ([cross-project run 38025837197](https://github.com/Azimn/Kiki-Mind/actions/runs/38025837197), [Kiki regression run 38025837212](https://github.com/Azimn/Kiki-Mind/actions/runs/38025837212)). The PR was squash-merged at `5f4940d1003e4746bbd16a8951455732a7ba5f2e`. Retain the original failure and correction as audit evidence.
 
 ## Scientific boundaries
 
@@ -31,4 +31,4 @@ Kiki's own ledger and deterministic projector remain authoritative, as do the de
 
 ## Next gate
 
-A confirmed green two-project CI + preserved Kiki baseline tests enables a narrow merge, followed by a second-stage **synthetic** character task requiring retrieval of safe event receipt metadata. Real content retrieval must wait for a separately reviewed content-visibility scheme, attacker/owner-swap controls and no-memory comparator. No live subject migration is authorized by this implementation.
+The completed green two-project CI and preserved Kiki baseline tests authorize the completed narrow merge. The next work is a second-stage **synthetic** character task requiring retrieval of safe event receipt metadata. Real content retrieval must wait for a separately reviewed content-visibility scheme, attacker/owner-swap controls and no-memory comparator. No live subject migration is authorized by this implementation.
